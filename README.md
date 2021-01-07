@@ -1,5 +1,8 @@
 # chicagohai.github.io
 
+Clone:  
+`git clone --recurse-submodules https://github.com/ChicagoHAI/chicagohai.github.io`
+
 # Edit content and publish
 
 ## How to edit contents
