@@ -1,7 +1,7 @@
 title = "Chicago HAI Lab"
 baseURL = "https://chicagohai.github.io"
 theme = "researcher"
-disableKinds = ["taxonomy", "term"]
+# disableKinds = ["taxonomy", "term"]
 enableEmoji = true
 math = false          # enable KaTeX (https://katex.org/) globally
 googleAnalytics = ""  # add your tracking id

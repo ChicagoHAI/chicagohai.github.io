@@ -1,0 +1,14 @@
+# Example (YAML): /data/papers.yml
+- title: "The Title of Your Publication"
+  authors: ["Co-Author 1", "Co-Author 2"]
+  archivePrefix: "arXiv"
+  eprint: YYMM.?????
+  primaryClass: "math.AG"
+  published: false # set to false if it is nothing but a preprint
+
+- title: "The Title of Your Publication"
+  authors: ["Co-Author 1", "Co-Author 2"]
+  archivePrefix: "arXiv"
+  eprint: YYMM.?????
+  primaryClass: "math.AG"
+  published: false # set to false if it is nothing but a preprint

@@ -11,7 +11,15 @@
   </url>
   
   <url>
+    <loc>https://chicagohai.github.io/categories/</loc>
+  </url>
+  
+  <url>
     <loc>https://chicagohai.github.io/publication/</loc>
+  </url>
+  
+  <url>
+    <loc>https://chicagohai.github.io/tags/</loc>
   </url>
   
 </urlset>

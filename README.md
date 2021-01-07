@@ -8,7 +8,7 @@ Clone:
 ## How to edit contents
 For homepage, edit `content/_index.md`.
 
-For publication, edit `content/publication.md`
+For publication, edit `content/publication.md` and `data/papers.yml`. Here, I use a template to enumerate publications in `data/papers.yml` file. You can modify the representation in `layouts/shortcodes/listPapers.html`.
 
 ## Run server
 run `hugo server` in base directory.
