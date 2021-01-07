@@ -1,4 +1,4 @@
-title = "Researcher"
+title = "Chicago HAI Lab"
 baseURL = "https://chicagohai.github.io"
 theme = "researcher"
 disableKinds = ["taxonomy", "term"]
