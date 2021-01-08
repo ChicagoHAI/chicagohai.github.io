@@ -1,61 +1,57 @@
 +++
-title = "About"
+title = "Homepage"
 +++
 
-## About Me
+Welcome!
 
-{{< figure class="avatar" src="/avatar.jpg" >}}
+Our goal is to develop a synergy between humans and artificial intelligence through a better understanding of _human behavior_ and _human interaction with AI_.
+We currently work on the following areas:
 
-This is a Hugo based resume template. You can find the full source code on
-[GitHub](https://github.com/ojroques/hugo-researcher).
+* Language and social dynamics
+* Emergence of communities and intergroup contact
+* Understanding/generating explanations for human-AI interaction
+* Design and evaluation of human-AI interaction
 
-## Research Interest
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam finibus ipsum
-ac erat aliquam dapibus. Vestibulum vehicula placerat ex, a consectetur odio
-pharetra quis[^1]. Mauris id urna ante.
+We are always looking for motivated postdocs, PhD students, and undergraduates who are interested in NLP, data science, computational social science, or machine learning! Please read this [FAQ](https://chenhaot.com/faq.html) if you are interested.
 
-Fusce pharetra diam ac nisi aliquet, velegestas ex iaculis. Pellentesque
-laoreet cursus tellus sed pellentesque. Praesent a rhoncus elit[^2]. Nunc
-ipsum nisl, consequat sit amet pretium quis, gravida id ipsum.
+Also check out [ChicagoNLP](https://twitter.com/ChicagoNLP) and [Center for Applied Artificial Intelligence](https://www.chicagobooth.edu/research/center-for-applied-artificial-intelligence).
 
-## Publications
 
-In chronological order:
-1. F.Bar, J.Doe: Effects of having a placeholder of a name
-2. S.Holmes, J.Watson: Consequences of living with a sociopath in London
+## News
 
-## Typography
+* Chao-Chun Hsu is presenting at AI for behavior change (Joe: can you add details?)!
 
-This is a [link](http://google.com). Something *italics* and something **bold**.
+## People
 
-Here is a table:
+#### Faculty
 
-Year | Award | Category
------|-------|--------
-2014 | Emmy  | Won Outstanding Lead Actor in a miniseries or a movie
-2015 | BAFTA | Nominated for Best Leading Actor for Sherlock
-2014 | Satellite | Won Best Actor miniseries or television film
+* [Chenhao Tan](https://chenhaot.com)
 
-Here is a horizontal rule:
+#### Postdoctoral scholars
 
----
+* [Sam Carton](http://scarton.people.si.umich.edu/) (CU Boulder)
 
-Here is a blockquote:
+#### PhD students
 
-> To a great mind, nothing is little
+* [Vivian Lai](https://vivlai.github.io/) (CU Boulder)
+* [Chao-Chun Hsu](https://joe32140.github.io/)
+* [Han Liu](https://mrsata.github.io/)
+* Yangqiaoyu (Rosa) Zhou
 
-Here is a `code` block:
 
-```python
-def is_elementary():
-  return True
-```
+#### Alumni
 
-## References
+* [Jason Shuo Zhang](http://www.jasondarkblue.com/) (postdoc at Max Planck Institute)
+* Brian Lubars (class of 2019, University of Colorado Boulder)
+* Shantanu Karnwal (class of 2019, University of Colorado Boulder)
+* Kumar Bhargav Srinivasan (class of 2019, University of Colorado Boulder)
+* Hunter Wapman (class of 2019, University of Colorado Boulder)
+* [Xiaochuang Han](https://xhan77.github.io/) (class of 2019, Georgia Tech)* David Atkinson (class of 2019, University of Colorado Boulder)
 
-* Foo Bar: Head of Department, Placeholder Names, Lorem
-* John Doe: Associate Professor, Department of Computer Science, Ipsum
 
-[^1]: This is the first footnote.
-[^2]: This is the second footnote.
+Our research is supported by Amazon, Facebook, IBM, NVIDIA, Salesforce, and NSF.
+
+
+
+
