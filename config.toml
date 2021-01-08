@@ -5,6 +5,7 @@ theme = "researcher"
 enableEmoji = true
 math = false          # enable KaTeX (https://katex.org/) globally
 googleAnalytics = "G-1Y0J2H5LBX"  # add your tracking id
+publishDir = "docs"
 
 [params]
   author = "CHAI"
