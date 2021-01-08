@@ -12,6 +12,7 @@ publishDir = "docs"
   description = "We are a research lab working on developing AI for people at UChicago."
   favicon = "favicon.ico"  # path to a .ico to use as favicon
   css = ["css/custom.css"]
+  googleAnalytics = "G-1Y0J2H5LBX"
   [params.footer]
     text = "A warm cup of CHAI"
     # url = "https://github.com/ojroques/hugo-researcher"
