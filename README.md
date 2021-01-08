@@ -14,7 +14,7 @@ For publication, edit `content/publication.md` and `data/papers.yml`. Here, I us
 run `hugo server` in base directory.
 
 ## How to publish website
-After finishing editing the content, we can update static files in `public/` by
+After finishing editing the content, we can update static files in `docs/` by
 ```
 # at base dir
 hugo -d docs/
