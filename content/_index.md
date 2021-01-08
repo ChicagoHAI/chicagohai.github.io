@@ -20,7 +20,7 @@ You might also find [ChicagoNLP](https://twitter.com/ChicagoNLP) and [Center for
 
 ## News
 
-* Chao-Chun Hsu is presenting at AI for behavior change (Joe: can you add details?)!
+* Chao-Chun Hsu is presenting at [__AI for behavior change@AAAI2021__](https://ai4bc.github.io/ai4bc21/) on February 8, 2021!
 
 ## People
 
@@ -35,9 +35,9 @@ You might also find [ChicagoNLP](https://twitter.com/ChicagoNLP) and [Center for
 #### PhD students
 
 * [Vivian Lai](https://vivlai.github.io/) (CU Boulder)
-* [Chao-Chun Hsu](https://joe32140.github.io/)
+* [Chao-Chun Hsu](https://chaochunhsu.github.io/)
 * [Han Liu](https://mrsata.github.io/)
-* Yangqiaoyu (Rosa) Zhou
+* [Yangqiaoyu (Rosa) Zhou](https://rosafish.github.io/)
 
 
 #### Alumni
@@ -48,7 +48,7 @@ You might also find [ChicagoNLP](https://twitter.com/ChicagoNLP) and [Center for
 * Kumar Bhargav Srinivasan (class of 2019, University of Colorado Boulder)
 * Hunter Wapman (class of 2019, University of Colorado Boulder)
 * [Xiaochuang Han](https://xhan77.github.io/) (class of 2019, Georgia Tech)
-* David Atkinson (class of 2019, University of Colorado Boulder)
+* David Atkinson (class of 2019, University of Colorado Boulder)
 
 
 

@@ -10,10 +10,11 @@ googleAnalytics = "G-1Y0J2H5LBX"  # add your tracking id
   author = "CHAI"
   description = "A website for a research lab working on developing the best AI for people."
   favicon = "favicon.ico"  # path to a .ico to use as favicon
+  body_classes = "georgia bg-near-white"
   [params.footer]
     text = "A warm cup of CHAI"
-#     url = "https://github.com/ojroques/hugo-researcher"
-
+  # url = "https://github.com/ojroques/hugo-researcher"
+  
 [permalinks]
   "/" = "/:filename"
 

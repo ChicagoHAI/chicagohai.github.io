@@ -247,7 +247,7 @@ In Proceedings of the Conference on Computer-Supported Cooperative Work and Soci
 [evgeniy_gabrilovich]: http://www.cs.technion.ac.il/~gabr/
 [xiaochuang_han]: https://xhan77.github.io/
 [jack_hessel]: http://www.cs.cornell.edu/~jhessel/
-[chaochun_hsu]: https://joe32140.github.io/
+[chaochun_hsu]: https://chaochunhsu.github.io/
 [david_huffaker]: http://www.davehuffaker.com
 [david_jurgens]: http://jurgens.people.si.umich.edu/
 [jon_kleinberg]: http://www.cs.cornell.edu/home/kleinber
