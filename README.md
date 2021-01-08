@@ -10,11 +10,16 @@ For homepage, edit `content/_index.md`.
 
 For publication, edit `content/publication.md` and `data/papers.yml`. Here, I use a template to enumerate publications in `data/papers.yml` file. You can modify the representation in `layouts/shortcodes/listPapers.html`.
 
-## Run server
+## Locally run server
 run `hugo server` in base directory.
 
-## Output static website
-Run `hugo` in base directory and files will be in `$BASE/public`.
+## How to publish website
+After finishing editing the content, we can update static files in `public/` by
+```
+# at base dir
+hugo -d docs/
+```
+To see site settings, go to `GitHub Pages` in `Settings` on github repo page. Remember to change source from `root/` to `docs/`.
 
 # Environments
 ## Install Go
