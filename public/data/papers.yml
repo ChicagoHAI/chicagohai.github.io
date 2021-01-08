@@ -1,7 +1,0 @@
-# Example (YAML): /data/papers.yml
-- title: "The Title of Your Publication"
-  jount_work: ["Co-Author 1", "Co-Author 2", ...]
-  archivePrefix: "arXiv"
-  eprint: YYMM.?????
-  primaryClass: "math.AG"
-  published: false # set to false if it is nothing but a preprint
