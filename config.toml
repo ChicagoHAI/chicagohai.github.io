@@ -8,7 +8,7 @@ googleAnalytics = "G-1Y0J2H5LBX"  # add your tracking id
 
 [params]
   author = "CHAI"
-  description = "A website for a research lab working on developing the best AI for people."
+  description = "We are a research lab working on developing AI for people at UChicago."
   favicon = "favicon.ico"  # path to a .ico to use as favicon
   css = ["css/custom.css"]
   [params.footer]
