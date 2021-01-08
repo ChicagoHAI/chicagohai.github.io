@@ -4,6 +4,8 @@ title = "Homepage"
 
 Welcome!
 
+{{< figure class="avatar" src="/avatar.jpg" >}}
+
 Our goal is to develop a synergy between humans and artificial intelligence through a better understanding of _human behavior_ and _human interaction with AI_.
 We currently work on the following areas:
 
