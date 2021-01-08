@@ -17,7 +17,7 @@ run `hugo server` in base directory.
 After finishing editing the content, we can update static files in `docs/` by
 ```
 # at base dir
-hugo -d docs/
+hugo
 ```
 To see site settings, go to `GitHub Pages` in `Settings` on github repo page. Remember to change source from `root/` to `docs/`.
 
