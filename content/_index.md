@@ -7,15 +7,15 @@ Welcome!
 Our goal is to develop a synergy between humans and artificial intelligence through a better understanding of _human behavior_ and _human interaction with AI_.
 We currently work on the following areas:
 
-* Language and social dynamics
-* Emergence of communities and intergroup contact
-* Understanding/generating explanations for human-AI interaction
-* Design and evaluation of human-AI interaction
+* Language and social dynamics,
+* Emergence of communities, intergroup contact, and multi-community engagement,
+* Understanding/generating explanations for human-AI interaction,
+* Design and evaluation of human-AI interaction.
 
 
-We are always looking for motivated postdocs, PhD students, and undergraduates who are interested in NLP, data science, computational social science, or machine learning! Please read this [FAQ](https://chenhaot.com/faq.html) if you are interested.
+We are always looking for motivated postdocs, PhD students, and undergraduates who are interested in NLP, data science, computational social science, or machine learning! Please read this [FAQ](https://chenhaot.com/faq.html) if you are interested. 
 
-Also check out [ChicagoNLP](https://twitter.com/ChicagoNLP) and [Center for Applied Artificial Intelligence](https://www.chicagobooth.edu/research/center-for-applied-artificial-intelligence).
+You might also find [ChicagoNLP](https://twitter.com/ChicagoNLP) and [Center for Applied Artificial Intelligence](https://www.chicagobooth.edu/research/center-for-applied-artificial-intelligence) interesting.
 
 
 ## News
@@ -47,10 +47,8 @@ Also check out [ChicagoNLP](https://twitter.com/ChicagoNLP) and [Center for Appl
 * Shantanu Karnwal (class of 2019, University of Colorado Boulder)
 * Kumar Bhargav Srinivasan (class of 2019, University of Colorado Boulder)
 * Hunter Wapman (class of 2019, University of Colorado Boulder)
-* [Xiaochuang Han](https://xhan77.github.io/) (class of 2019, Georgia Tech)* David Atkinson (class of 2019, University of Colorado Boulder)
-
-
-Our research is supported by Amazon, Facebook, IBM, NVIDIA, Salesforce, and NSF.
+* [Xiaochuang Han](https://xhan77.github.io/) (class of 2019, Georgia Tech)
+* David Atkinson (class of 2019, University of Colorado Boulder)
 
 
 

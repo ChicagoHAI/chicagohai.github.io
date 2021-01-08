@@ -1,4 +1,4 @@
-title = "Chicago HAI Lab"
+title = "Chicago Human+AI Lab (CHAI)"
 baseURL = "https://chicagohai.github.io"
 theme = "researcher"
 # disableKinds = ["taxonomy", "term"]
@@ -7,12 +7,12 @@ math = false          # enable KaTeX (https://katex.org/) globally
 googleAnalytics = "G-1Y0J2H5LBX"  # add your tracking id
 
 [params]
-  author = "Olivier Roques"
-  description = "A simple monospaced resume theme for Hugo."
+  author = "CHAI"
+  description = "A website for a research lab working on developing the best AI for people."
   favicon = "favicon.ico"  # path to a .ico to use as favicon
   [params.footer]
-    text = "By Olivier Roques"
-    url = "https://github.com/ojroques/hugo-researcher"
+    text = "A warm cup of CHAI"
+#     url = "https://github.com/ojroques/hugo-researcher"
 
 [permalinks]
   "/" = "/:filename"
