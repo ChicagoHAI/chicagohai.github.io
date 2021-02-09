@@ -35,14 +35,14 @@ Check out our [Twitter](https://twitter.com/ChicagoHAI) account and you might al
 <figure style="display:inline-block;margin:20px;">
     <img src="/chenhao.jpg" alt="chenhao-tan" style="vertical-align:top;width:120px;" />
     <figcaption style="text-align:center;">
-        <a href="https://chenhaot.com">Chenhao Tan</a>
+        <a href="https://chenhaot.com">Chenhao Tan (PI)</a>
     </figcaption>
 </figure>
 <!-- * [Sam Carton](http://scarton.people.si.umich.edu/) (CU Boulder) -->
 <figure style="display:inline-block;margin:20px;">
     <img src="/sam.png" alt="sam-carton" style="vertical-align:top;width:120px;" />
     <figcaption style="text-align:center;">
-        <a href="https://shcarton.github.io/">Samuel Carton</a>
+        <a href="https://shcarton.github.io/">Samuel Carton (Postdoc)</a>
     </figcaption>
 </figure>
 <figure style="display:inline-block;margin:20px;">
