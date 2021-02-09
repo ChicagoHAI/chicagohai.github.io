@@ -18,6 +18,7 @@ We currently work on the following areas:
 We are always looking for motivated postdocs, PhD students, and undergraduates who are interested in NLP, data science, computational social science, or machine learning! Please read this [FAQ](https://chenhaot.com/faq.html) if you are interested. 
 
 Check out our [Twitter](https://twitter.com/ChicagoHAI) account and you might also find [ChicagoNLP](https://twitter.com/ChicagoNLP) and [Center for Applied Artificial Intelligence](https://www.chicagobooth.edu/research/center-for-applied-artificial-intelligence) interesting.
+<a href="https://twitter.com/ChicagoHAI?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-count="false">Follow @ChicagoHAI</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 
 ## News
@@ -25,12 +26,7 @@ Check out our [Twitter](https://twitter.com/ChicagoHAI) account and you might al
 * Chao-Chun Hsu is presenting at [__AI for behavior change@AAAI2021__](https://ai4bc.github.io/ai4bc21/) on February 8, 2021!
 
 
-## Demo links
-* [Machine in the loop](https://machineintheloop.com/)
-* [Reddit genealogy](https://redditvisualization.herokuapp.com/)
-* [Task delegability](https://delegability.github.io/)
-<!-- * [Wisecrackings](https://wisecrackings.com/) -->
-<br>
+
 
 ## People
 
@@ -96,6 +92,12 @@ Check out our [Twitter](https://twitter.com/ChicagoHAI) account and you might al
 * [Han Liu](https://mrsata.github.io/)
 * [Yangqiaoyu (Rosa) Zhou](https://rosafish.github.io/) -->
 
+## Demo links
+* [Machine in the loop](https://machineintheloop.com/)
+* [Reddit genealogy](https://redditvisualization.herokuapp.com/)
+* [Task delegability](https://delegability.github.io/)
+<!-- * [Wisecrackings](https://wisecrackings.com/) -->
+<br>
 
 #### Alumni
 
