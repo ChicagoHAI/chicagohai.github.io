@@ -23,6 +23,7 @@ Check out our [Twitter](https://twitter.com/ChicagoHAI) account and you might al
 
 ## News
 
+* We are looking for a new [postdoc](https://chenhaot.com/tmp/cdac_postdoc.pdf)!
 * Chao-Chun Hsu is presenting at [__AI for behavior change@AAAI2021__](https://ai4bc.github.io/ai4bc21/) on February 8, 2021!
 
 
