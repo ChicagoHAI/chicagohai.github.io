@@ -21,7 +21,7 @@ You might also find [ChicagoNLP](https://twitter.com/ChicagoNLP) and [Center for
 
 
 ## News
-
+* The code for [**Characterizing the Value of Information in Medical Notes**](https://arxiv.org/pdf/2010.03574.pdf) is available now! ([value-of-medical-notes](https://github.com/BoulderDS/value-of-medical-notes))
 * Chao-Chun Hsu is presenting at [__AI for behavior change@AAAI2021__](https://ai4bc.github.io/ai4bc21/) on February 8, 2021!
 
 ## People

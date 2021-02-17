@@ -4,7 +4,7 @@ title = "Publication"
 
 2020
 
-* [Chao-Chun Hsu][chaochun_hsu], Shantanu Karnwal, [Sendhil Mullainathan](sendhil_mullainathan), [Ziad Obermeyer][ziad_obermeyer], and _Chenhao Tan_. [Characterizing the Value of Information in Medical Notes][emnlp20b_details]. In Findings of EMNLP 2020.
+* [Chao-Chun Hsu][chaochun_hsu], Shantanu Karnwal, [Sendhil Mullainathan](sendhil_mullainathan), [Ziad Obermeyer][ziad_obermeyer], and _Chenhao Tan_. [Characterizing the Value of Information in Medical Notes][emnlp20b_details]. In Findings of EMNLP 2020. \[[code](https://github.com/BoulderDS/value-of-medical-notes)\]
 * [Samuel Carton][sam_carton], [Anirudh Rathore][anirudh_rathore], and _Chenhao Tan_. [Evaluating and Characterizing Human Rationales][emnlp20a_details]. In Proceedings of the 2020 Conference on Empirical Methods in Natural Language Processing (EMNLP'2020).
 * [Vivian Lai][vivian_lai], [Samuel Carton][sam_carton], and _Chenhao Tan_. [Harnessing Explanations to Bridge AI and Humans][chi20ws_details]. In Fair & Responsible AI Workshop, CHI 2020.
 * [Vivian Lai][vivian_lai], [Han Liu][han_liu], and _Chenhao Tan_. ["Why is 'Chicago' deceptive?": Towards Building Model-Driven Tutorials for Humans][chi20_details]. In Proceedings of the ACM CHI Conference on Human Factors in Computing Systems 2020 (CHI'2020).
