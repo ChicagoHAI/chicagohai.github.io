@@ -23,7 +23,7 @@ Check out our [Twitter](https://twitter.com/ChicagoHAI) account and you might al
 
 ## News
 * We are looking for a new [postdoc](https://chenhaot.com/tmp/cdac_postdoc.pdf)!
-* The code for [Characterizing the Value of Information in Medical Notes](https://chenhaot.com/papers/value-of-information.html) is available now! ([value-of-medical-notes](https://github.com/BoulderDS/value-of-medical-notes))
+* The code for [Characterizing the Value of Information in Medical Notes](https://chenhaot.com/papers/value-of-information.html) is available now: [value-of-medical-notes](https://github.com/BoulderDS/value-of-medical-notes)!
 * Chao-Chun Hsu is presenting at [__AI for behavior change@AAAI2021__](https://ai4bc.github.io/ai4bc21/) on February 8, 2021!
 
 
