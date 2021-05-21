@@ -2,6 +2,16 @@
 title = "Publication"
 +++
 
+2021
+
+* [Ramaravind Kommiya Mothilal][ram_mothilal], [Divyat Mahajan][divyat_mahajan], _Chenhao Tan_ and [Amit Sharma](amit_sharma). [Towards Unifying Feature Attribution and Counterfactual Explanations: Different Means to the Same End][aies21_details]. In Proceedings of the Fourth AAAI/ACM conference on Artificial Intelligence, Ethics, and Society (AIES'2021); also presented at the [Reponsible AI workshop](https://sites.google.com/view/rai-workshop/home?authuser=0) at ICLR.
+* [Madhusudhan Aithal Mahabhaleshwara][madhu_mahabhaleshwara] and _Chenhao Tan_. On Positivity Bias in Negative Reviews. In Proceedings of the Joint Conference of the 59th Annual Meeting of the Association for Computational Linguistics and the 11th International Joint Conference on Natural Language Processing (ACL-IJCNLP 2021) (short paper).
+* [Jason Shuo Zhang][shuo_zhang], [Qin Lv][qin_lv], [Brian Keegan][brian_keegan], and _Chenhao Tan_. [Understanding the Diverging User Trajectories in Highly-related Online Communities during the COVID-19 Pandemic][icwsm21_details]. In Proceedings of the 15th International Conference On Web and Social Media (ICWSM'2021).
+* [Isil Erel][isil_erel], [Lea Stern][lea_stern], _Chenhao Tan_, [Michael S. Weisbach][michael_weisbach]. [Selecting Directors Using Machine Learning](https://academic.oup.com/rfs/advance-article-abstract/doi/10.1093/rfs/hhab050/6239715?redirectedFrom=fulltext). Review of Financial Studies. 2021.
+* Abhijit Suresh, Jennifer Jacobs, Vivian Lai, _Chenhao Tan_, Wayne Ward, James H. Martin, Tamara Sumner. Using Transformers to Provide Teachers with Personalized Feedback on their Classroom Discourse: The TalkMoves Application. AAAI Spring Symposium Series 2021.
+* Abhijit Suresh, Jennifer Jacobs, Charis Clevenger, Vivian Lai, _Chenhao Tan_, James H. Martin and Tamara Sumner. Using AI to promote equitable classroom instruction: The TalkMoves Application. In Proceedings of the 22nd International Conference on Artificial Intelligence in Education (AIED'2021) (short paper).
+
+
 2020
 
 * [Chao-Chun Hsu][chaochun_hsu], Shantanu Karnwal, [Sendhil Mullainathan](sendhil_mullainathan), [Ziad Obermeyer][ziad_obermeyer], and _Chenhao Tan_. [Characterizing the Value of Information in Medical Notes][emnlp20b_details]. In Findings of EMNLP 2020. \[[code](https://github.com/BoulderDS/value-of-medical-notes)\]
@@ -155,6 +165,8 @@ In Proceedings of the Conference on Computer-Supported Cooperative Work and Soci
 
 
 [//]: <> (papers and files)
+[aies21_details]: papers/unifying-explanations.html
+[icwsm21_details]: papers/covid-communities-diverging-trajectories.html
 [emnlp20b_details]: https://chenhaot.com/papers/value-of-information.html
 [emnlp20a_details]: https://chenhaot.com/papers/evaluate-human-rationales.html
 [thesis_file]: /pubs/tan-thesis.pdf
@@ -246,6 +258,7 @@ In Proceedings of the Conference on Computer-Supported Cooperative Work and Soci
 [chaochun_hsu]: https://chaochunhsu.github.io/
 [david_huffaker]: http://www.davehuffaker.com
 [david_jurgens]: http://jurgens.people.si.umich.edu/
+[brian_keegan]: https://www.brianckeegan.com/
 [jon_kleinberg]: http://www.cs.cornell.edu/home/kleinber
 [gueorgi_kossinets]: https://sites.google.com/site/gkossinets/
 [vivian_lai]: https://vivlai.github.io/
@@ -258,7 +271,10 @@ In Proceedings of the Conference on Computer-Supported Cooperative Work and Soci
 [bin_lu]: http://sites.google.com/site/lubin2010/
 [brian_lubars]: http://blubars.github.io/pages/about.html
 [qin_lv]: https://www.cs.colorado.edu/~lv/
+[madhu_mahabhaleshwara]: https://madhu-aithal.github.io/
 [michael_macy]: http://www.soc.cornell.edu/faculty/macy.html
+[divyat_mahajan]: http://divy.at/
+[ram_mothilal]: https://raam93.github.io/
 [sendhil_mullainathan]: http://scholar.harvard.edu/sendhil/home
 [vlad_niculae]: http://vene.ro/
 [ziad_obermeyer]: http://ziadobermeyer.com/

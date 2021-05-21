@@ -22,10 +22,10 @@ Check out our [Twitter](https://twitter.com/ChicagoHAI) account and you might al
 
 
 ## News
-* Chenhao is teaching [Human-Centered Machine Learning](https://github.com/ChicagoHAI/human-centered-machine-learning) in Spring 2021.
-* We are looking for a new [postdoc](https://chenhaot.com/tmp/cdac_postdoc.pdf)!
-* The code for [Characterizing the Value of Information in Medical Notes](https://chenhaot.com/papers/value-of-information.html) is available now: [value-of-medical-notes](https://github.com/BoulderDS/value-of-medical-notes)!
-* Chao-Chun Hsu is presenting at [__AI for behavior change@AAAI2021__](https://ai4bc.github.io/ai4bc21/) on February 8, 2021!
+* A paper titled "On Positivity Bias in Negative Reviews" accepted at ACL'21, congratulations, [Madhu](https://madhu-aithal.github.io/)!
+* A paper titled "[Towards Unifying Feature Attribution and Counterfactual Explanations: Different Means to the Same End](https://chenhaot.com/papers/unifying-explanations.html)" accepted at AIES'21!
+* A paper titled "[Understanding the Diverging User Trajectories in Highly-related Online Communities during the COVID-19 Pandemic](https://chenhaot.com/papers/covid-communities-diverging-trajectories.html)", congratulations, [Jason](http://www.jasondarkblue.com/)!
+
 
 
 
@@ -86,6 +86,7 @@ Check out our [Twitter](https://twitter.com/ChicagoHAI) account and you might al
 
 ## Demo links
 * [Machine in the loop](https://machineintheloop.com/)
+* [Retweetedmore](https://chenhaot.com/retweetedmore)
 * [Reddit genealogy](https://redditvisualization.herokuapp.com/)
 * [Task delegability](https://delegability.github.io/)
 <!-- * [Wisecrackings](https://wisecrackings.com/) -->
