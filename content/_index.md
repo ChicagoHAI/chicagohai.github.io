@@ -24,7 +24,7 @@ Check out our [Twitter](https://twitter.com/ChicagoHAI) account and you might al
 ## News
 * A paper titled "On Positivity Bias in Negative Reviews" accepted at ACL'21, congratulations, [Madhu](https://madhu-aithal.github.io/)!
 * A paper titled "[Towards Unifying Feature Attribution and Counterfactual Explanations: Different Means to the Same End](https://chenhaot.com/papers/unifying-explanations.html)" accepted at AIES'21!
-* A paper titled "[Understanding the Diverging User Trajectories in Highly-related Online Communities during the COVID-19 Pandemic](https://chenhaot.com/papers/covid-communities-diverging-trajectories.html)", congratulations, [Jason](http://www.jasondarkblue.com/)!
+* A paper titled "[Understanding the Diverging User Trajectories in Highly-related Online Communities during the COVID-19 Pandemic](https://chenhaot.com/papers/covid-communities-diverging-trajectories.html)" accepted at ICWSM'21, congratulations, [Jason](http://www.jasondarkblue.com/)!
 
 
 
