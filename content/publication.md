@@ -12,10 +12,10 @@ Preprint
 
 * [Han Liu][han_liu], [Vivian Lai][vivian_lai], and _Chenhao Tan_. [Understanding the Effect of Out-of-distribution Examples and Interactive Explanations on Human-AI Decision Making](https://arxiv.org/abs/2101.05303). CSCW 2021.
 * [Ramaravind Kommiya Mothilal][ram_mothilal], [Divyat Mahajan][divyat_mahajan], _Chenhao Tan_ and [Amit Sharma](amit_sharma). [Towards Unifying Feature Attribution and Counterfactual Explanations: Different Means to the Same End][aies21_details]. In Proceedings of the Fourth AAAI/ACM conference on Artificial Intelligence, Ethics, and Society (AIES'2021); also presented at the [Reponsible AI workshop](https://sites.google.com/view/rai-workshop/home?authuser=0) at ICLR.
-* [Madhusudhan Aithal Mahabhaleshwara][madhu_mahabhaleshwara] and _Chenhao Tan_. On Positivity Bias in Negative Reviews. In Proceedings of the Joint Conference of the 59th Annual Meeting of the Association for Computational Linguistics and the 11th International Joint Conference on Natural Language Processing (ACL-IJCNLP 2021) (short paper).
+* [Madhusudhan Aithal Mahabhaleshwara][madhu_mahabhaleshwara] and _Chenhao Tan_. [On Positivity Bias in Negative Reviews](https://arxiv.org/abs/2106.12056). In Proceedings of the Joint Conference of the 59th Annual Meeting of the Association for Computational Linguistics and the 11th International Joint Conference on Natural Language Processing (ACL-IJCNLP 2021) (short paper).
 * [Jason Shuo Zhang][shuo_zhang], [Qin Lv][qin_lv], [Brian Keegan][brian_keegan], and _Chenhao Tan_. [Understanding the Diverging User Trajectories in Highly-related Online Communities during the COVID-19 Pandemic][icwsm21_details]. In Proceedings of the 15th International Conference On Web and Social Media (ICWSM'2021).
 * [Isil Erel][isil_erel], [Lea Stern][lea_stern], _Chenhao Tan_, [Michael S. Weisbach][michael_weisbach]. [Selecting Directors Using Machine Learning](https://academic.oup.com/rfs/advance-article-abstract/doi/10.1093/rfs/hhab050/6239715?redirectedFrom=fulltext). Review of Financial Studies. 2021.
-* Abhijit Suresh, Jennifer Jacobs, Vivian Lai, _Chenhao Tan_, Wayne Ward, James H. Martin, Tamara Sumner. Using Transformers to Provide Teachers with Personalized Feedback on their Classroom Discourse: The TalkMoves Application. AAAI Spring Symposium Series 2021.
+* Abhijit Suresh, Jennifer Jacobs, Vivian Lai, _Chenhao Tan_, Wayne Ward, James H. Martin, Tamara Sumner. [Using Transformers to Provide Teachers with Personalized Feedback on their Classroom Discourse: The TalkMoves Application](https://arxiv.org/abs/2105.07949). AAAI Spring Symposium Series 2021.
 * Abhijit Suresh, Jennifer Jacobs, Charis Clevenger, Vivian Lai, _Chenhao Tan_, James H. Martin and Tamara Sumner. Using AI to promote equitable classroom instruction: The TalkMoves Application. In Proceedings of the 22nd International Conference on Artificial Intelligence in Education (AIED'2021) (short paper).
 
 
@@ -172,8 +172,8 @@ In Proceedings of the Conference on Computer-Supported Cooperative Work and Soci
 
 
 [//]: <> (papers and files)
-[aies21_details]: papers/unifying-explanations.html
-[icwsm21_details]: papers/covid-communities-diverging-trajectories.html
+[aies21_details]: https://chenhaot.com/papers/unifying-explanations.html
+[icwsm21_details]: https://chenhaot.com/papers/covid-communities-diverging-trajectories.html
 [emnlp20b_details]: https://chenhaot.com/papers/value-of-information.html
 [emnlp20a_details]: https://chenhaot.com/papers/evaluate-human-rationales.html
 [thesis_file]: /pubs/tan-thesis.pdf
