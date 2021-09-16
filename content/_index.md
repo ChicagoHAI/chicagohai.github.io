@@ -22,6 +22,7 @@ Check out our [Twitter](https://twitter.com/ChicagoHAI) account and you might al
 
 
 ## News
+* A paper titled "[Decision-Focused Summarization](https://arxiv.org/abs/2109.06896)" is accepted at EMNLP'21, congratulations, [Joe](https://chaochunhsu.github.io/)!
 * A paper titled "[Understanding the Effect of Out-of-distribution Examples and Interactive Explanations on Human-AI Decision Making](https://arxiv.org/abs/2101.05303)" is accepted at CSCW'21, congratulations, [Han](https://mrsata.github.io/) and [Vivian](https://vivlai.github.io/)!
 * A paper titled "[On Positivity Bias in Negative Reviews](https://arxiv.org/abs/2106.12056)" is accepted at ACL'21, congratulations, [Madhu](https://madhu-aithal.github.io/)!
 * A paper titled "[Towards Unifying Feature Attribution and Counterfactual Explanations: Different Means to the Same End](https://chenhaot.com/papers/unifying-explanations.html)" is accepted at AIES'21!
@@ -30,24 +31,29 @@ Check out our [Twitter](https://twitter.com/ChicagoHAI) account and you might al
 
 
 
-
 ## People
+### Faculty
 
 
 <!-- * [Chenhao Tan](https://chenhaot.com) -->
 <figure style="display:inline-block;margin:20px;">
     <img src="/chenhao.jpg" alt="chenhao-tan" style="vertical-align:top;width:120px;" />
     <figcaption style="text-align:center;">
-        <a href="https://chenhaot.com">Chenhao Tan (PI)</a>
+        <a href="https://chenhaot.com">Chenhao Tan</a>
     </figcaption>
 </figure>
+
+### Postdocs
 <!-- * [Sam Carton](http://scarton.people.si.umich.edu/) (CU Boulder) -->
 <figure style="display:inline-block;margin:20px;">
     <img src="/sam.png" alt="sam-carton" style="vertical-align:top;width:120px;" />
     <figcaption style="text-align:center;">
-        <a href="https://shcarton.github.io/">Samuel Carton (Postdoc)</a>
+        <a href="https://shcarton.github.io/">Samuel Carton</a>
     </figcaption>
 </figure>
+
+### PhDs
+
 <figure style="display:inline-block;margin:20px;">
     <img src="/viv.png" alt="viv-lai" style="vertical-align:top;width:120px;" />
     <figcaption style="text-align:center;">
@@ -57,7 +63,7 @@ Check out our [Twitter](https://twitter.com/ChicagoHAI) account and you might al
 <figure style="display:inline-block;margin:20px;">
     <img src="/joe.png" alt="chao-chun-hsu" style="vertical-align:top;width:120px;" />
     <figcaption style="text-align:center;">
-        <a href="https://chaochunhsu.github.io/">Chao-Chun Hsu</a>
+        <a href="https://chaochunhsu.github.io/">Chao-Chun (Joe) Hsu</a>
     </figcaption>
 </figure>
 <figure style="display:inline-block;margin:20px;">

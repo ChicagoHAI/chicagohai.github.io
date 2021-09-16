@@ -9,7 +9,7 @@ Preprint
 
 
 2021
-
+* [Chao-Chun Hsu][chaochun_hsu], _Chenhao Tan_. [Decision-Focused Summarization](https://arxiv.org/abs/2109.06896). EMNLP 2021.
 * [Han Liu][han_liu], [Vivian Lai][vivian_lai], and _Chenhao Tan_. [Understanding the Effect of Out-of-distribution Examples and Interactive Explanations on Human-AI Decision Making](https://arxiv.org/abs/2101.05303). CSCW 2021.
 * [Ramaravind Kommiya Mothilal][ram_mothilal], [Divyat Mahajan][divyat_mahajan], _Chenhao Tan_ and [Amit Sharma](amit_sharma). [Towards Unifying Feature Attribution and Counterfactual Explanations: Different Means to the Same End][aies21_details]. In Proceedings of the Fourth AAAI/ACM conference on Artificial Intelligence, Ethics, and Society (AIES'2021); also presented at the [Reponsible AI workshop](https://sites.google.com/view/rai-workshop/home?authuser=0) at ICLR.
 * [Madhusudhan Aithal Mahabhaleshwara][madhu_mahabhaleshwara] and _Chenhao Tan_. [On Positivity Bias in Negative Reviews](https://arxiv.org/abs/2106.12056). In Proceedings of the Joint Conference of the 59th Annual Meeting of the Association for Computational Linguistics and the 11th International Joint Conference on Natural Language Processing (ACL-IJCNLP 2021) (short paper).
