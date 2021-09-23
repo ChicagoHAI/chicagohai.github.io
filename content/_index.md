@@ -45,37 +45,81 @@ Check out our [Twitter](https://twitter.com/ChicagoHAI) account and you might al
 
 ### Postdocs
 <!-- * [Sam Carton](http://scarton.people.si.umich.edu/) (CU Boulder) -->
-<figure style="display:inline-block;margin:20px;">
+<figure class="photo" style="display:inline-block;margin:20px;">
     <img src="/sam.png" alt="sam-carton" style="vertical-align:top;width:120px;" />
     <figcaption style="text-align:center;">
         <a href="https://shcarton.github.io/">Samuel Carton</a>
     </figcaption>
 </figure>
+<figure class="photo" style="display:inline-block;margin:20px;">
+    <img src="Shi_Feng.jpeg" alt="Shi_Feng" style="vertical-align:top;width:120px;" />
+    <figcaption style="text-align:center;">
+        <a href="http://www.shifeng.umiacs.io/">Shi Feng</a>
+    </figcaption>
+</figure>
 
 ### PhDs
 
-<figure style="display:inline-block;margin:20px;">
+<figure class="photo" style="display:inline-block;margin:20px;">
     <img src="/viv.png" alt="viv-lai" style="vertical-align:top;width:120px;" />
     <figcaption style="text-align:center;">
         <a href="https://vivlai.github.io/">Vivian Lai</a>
     </figcaption>
 </figure>
-<figure style="display:inline-block;margin:20px;">
+<figure class="photo" style="display:inline-block;margin:20px;">
     <img src="/joe.png" alt="chao-chun-hsu" style="vertical-align:top;width:120px;" />
     <figcaption style="text-align:center;">
         <a href="https://chaochunhsu.github.io/">Chao-Chun (Joe) Hsu</a>
     </figcaption>
 </figure>
-<figure style="display:inline-block;margin:20px;">
+<figure class="photo" style="display:inline-block;margin:20px;">
     <img src="/han.png" alt="han-liu" style="vertical-align:top;width:120px;" />
     <figcaption style="text-align:center;">
         <a href="https://hanliuai.github.io/">Han Liu</a>
     </figcaption>
 </figure>
-<figure style="display:inline-block;margin:20px;">
+<figure class="photo" style="display:inline-block;margin:20px;">
     <img src="/rosa.png" alt="yangqiaoyu-rosa-zhou" style="vertical-align:top;width:120px;" />
     <figcaption style="text-align:center;">
         <a href="https://rosafish.github.io/">Yangqiaoyu (Rosa) Zhou</a>
+    </figcaption>
+</figure>
+<figure class="photo" style="display:inline-block;">
+    <img src="Karen_Zhou.jpg" alt="Karen_Zhou" style="vertical-align:top;width:120px;" />
+    <figcaption style="text-align:center;">
+        <a href="https://karen-zhou.com/">Karen Zhou</a>
+    </figcaption>
+</figure>
+<figure class="photo"  style="display:inline-block;margin:20px;">
+    <img src="Chacha_Chen.14.11 PM - Chacha Chen.png" alt="Chacha_Chen" style="vertical-align:top;width:120px;" />
+    <figcaption style="text-align:center;">
+        <a href="https://chacha-chen.github.io">Chacha Chen</a>
+    </figcaption>
+</figure>
+<figure class="photo"  style="display:inline-block;margin:20px;">
+    <img src="Mourad_Heddaya.jpeg" alt="Mourad_Heddaya" style="vertical-align:top;width:120px;" />
+    <figcaption style="text-align:center;">
+        <a href="nan">Mourad Heddaya</a>
+    </figcaption>
+</figure>
+
+## Masters & Undergrads
+<figure class="photo"  style="display:inline-block;margin:20px;">
+    <img src="Yiming_Zhang.png" alt="Yiming_Zhang" style="vertical-align:top;width:120px;" />
+    <figcaption style="text-align:center;">
+        <a href="https://y0mingzhang.github.io/">Yiming Zhang</a>
+    </figcaption>
+</figure>
+<figure class="photo"  style="display:inline-block;margin:20px;">
+    <img src="Kenan_Tang.JPG" alt="Kenan_Tang" style="vertical-align:top;width:120px;" />
+    <figcaption style="text-align:center;">
+        <a href="https://kenantang.github.io/page/">Kenan Tang</a>
+    </figcaption>
+</figure>
+<figure class="photo"  style="display:inline-block;margin:20px;">
+    <img src="Logen_Lee.jpeg" alt="Logen_Lee" style="vertical-align:top;width:120px;" />
+    <figcaption style="text-align:center;">
+        <a href="https://logenleedev.github.io/">Logen Lee</a>
     </figcaption>
 </figure>
 

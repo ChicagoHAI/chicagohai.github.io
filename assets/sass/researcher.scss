@@ -82,9 +82,10 @@ $y-medium: 1.0rem;
     .photo > img {
         border-radius: 50%;
         float: right;
-        margin: -8px 0 0 16px;
-        height: $avatar-size;
-        width: $avatar-size;
+        // margin: -8px 0 0 16px;
+        margin:20px;
+        height: 150;
+        width: 150;
     }
     ol {
         counter-reset: list;
