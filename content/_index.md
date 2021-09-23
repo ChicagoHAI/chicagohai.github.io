@@ -103,7 +103,7 @@ Check out our [Twitter](https://twitter.com/ChicagoHAI) account and you might al
     </figcaption>
 </figure>
 
-## Masters & Undergrads
+### Masters & Undergrads
 <figure class="photo"  style="display:inline-block;margin:20px;">
     <img src="Yiming_Zhang.png" alt="Yiming_Zhang" style="vertical-align:top;width:120px;" />
     <figcaption style="text-align:center;">
