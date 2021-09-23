@@ -51,3 +51,9 @@ If you encounter any problems, please refer to [trouble shooting](#Trouble-Shoot
 exec: "gcc": executable file not found in $PATH`
 
 see https://linuxize.com/post/how-to-install-gcc-compiler-on-ubuntu-18-04/ .
+
+## Update profile 
+Run the following scrip to generate profile list that you can paste to `content/_index.md`.
+```
+bash scripts/update_profile_list.sh
+```
