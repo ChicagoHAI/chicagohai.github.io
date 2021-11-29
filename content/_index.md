@@ -22,6 +22,7 @@ Check out our [Twitter](https://twitter.com/ChicagoHAI) account and you might al
 
 
 ## News
+* We have openings for postdocs through the [DSI fellowship](http://datascience.uchicago.edu/engage/fellowships/)!
 * A paper titled "[Decision-Focused Summarization](https://arxiv.org/abs/2109.06896)" is accepted at EMNLP'21, congratulations, [Joe](https://chaochunhsu.github.io/)!
 * A paper titled "[Understanding the Effect of Out-of-distribution Examples and Interactive Explanations on Human-AI Decision Making](https://arxiv.org/abs/2101.05303)" is accepted at CSCW'21, congratulations, [Han](https://mrsata.github.io/) and [Vivian](https://vivlai.github.io/)!
 * A paper titled "[On Positivity Bias in Negative Reviews](https://arxiv.org/abs/2106.12056)" is accepted at ACL'21, congratulations, [Madhu](https://madhu-aithal.github.io/)!
