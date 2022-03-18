@@ -1,10 +1,14 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Homepage on Chicago Human&#43;AI Lab (CHAI)</title>
     <link>https://chicagohai.github.io/</link>
     <description>Recent content in Homepage on Chicago Human&#43;AI Lab (CHAI)</description>
-    <generator>Hugo -- gohugo.io</generator><atom:link href="https://chicagohai.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <generator>Hugo -- gohugo.io</generator>
+    
+	<atom:link href="https://chicagohai.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    
     <item>
       <title>About</title>
       <link>https://chicagohai.github.io/about/</link>
@@ -23,8 +27,7 @@ Fusce pharetra diam ac nisi aliquet, velegestas ex iaculis. Pellentesque laoreet
       
       <guid>https://chicagohai.github.io/publication/</guid>
       <description>Preprint
- Chenhao Tan. On the Diversity and Limits of Human Explanations.  2021
- Chao-Chun Hsu, Chenhao Tan. Decision-Focused Summarization. EMNLP 2021. Han Liu, Vivian Lai, and Chenhao Tan. Understanding the Effect of Out-of-distribution Examples and Interactive Explanations on Human-AI Decision Making. CSCW 2021. Ramaravind Kommiya Mothilal, Divyat Mahajan, Chenhao Tan and Amit Sharma. Towards Unifying Feature Attribution and Counterfactual Explanations: Different Means to the Same End. In Proceedings of the Fourth AAAI/ACM conference on Artificial Intelligence, Ethics, and Society (AIES&#39;2021); also presented at the Reponsible AI workshop at ICLR.</description>
+ Chenhao Tan. On the Diversity and Limits of Human Explanations.  2021 * Chao-Chun Hsu, Chenhao Tan. Decision-Focused Summarization. EMNLP 2021. * Han Liu, Vivian Lai, and Chenhao Tan. Understanding the Effect of Out-of-distribution Examples and Interactive Explanations on Human-AI Decision Making. CSCW 2021. * Ramaravind Kommiya Mothilal, Divyat Mahajan, Chenhao Tan and Amit Sharma. Towards Unifying Feature Attribution and Counterfactual Explanations: Different Means to the Same End. In Proceedings of the Fourth AAAI/ACM conference on Artificial Intelligence, Ethics, and Society (AIES&amp;rsquo;2021); also presented at the Reponsible AI workshop at ICLR.</description>
     </item>
     
   </channel>
