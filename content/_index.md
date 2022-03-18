@@ -100,7 +100,7 @@ Check out our [Twitter](https://twitter.com/ChicagoHAI) account and you might al
 <figure class="photo"  style="display:inline-block;margin:20px;">
     <img src="Mourad_Heddaya.jpeg" alt="Mourad_Heddaya" style="vertical-align:top;width:120px;" />
     <figcaption style="text-align:center;">
-        <a href="nan">Mourad Heddaya</a>
+        <a href="https://people.cs.uchicago.edu/~mourad/">Mourad Heddaya</a>
     </figcaption>
 </figure>
 
