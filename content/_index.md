@@ -25,7 +25,7 @@ Check out our [Twitter](https://twitter.com/ChicagoHAI) account and you might al
 ## News
 
 * We have a postdoc opening on human-centered AI. Please email [Chenhao](https://chenhaot.com/contact.html) your CV and names of references!
-* In Fall 2002, we will also have openings for postdocs through the [DSI fellowship](http://datascience.uchicago.edu/engage/fellowships/)!
+* In Fall 2022, we will also have openings for postdocs through the [DSI fellowship](http://datascience.uchicago.edu/engage/fellowships/)!
 * We gave a tutorial on human-centered evaluation of explanations at NAACL, and the recorded videos are on [Youtube](https://www.youtube.com/playlist?list=PLegWUnz91Wfu7zWCcFemUv40M9kIikCjZ)!
 * We proposed a novel mode of human-AI interaction through conditional delegation, check out our [paper](https://arxiv.org/abs/2204.11788) at CHI!
 * Chenhao wrote a short position [paper](https://aclanthology.org/2022.naacl-main.158.pdf) titled "On the Diversity and Limits of Human Explanations" at NAACL, a second single-authored paper after 4 years!
