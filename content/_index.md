@@ -136,7 +136,7 @@ Check out our [Twitter](https://twitter.com/ChicagoHAI) account and you might al
 * [Samuel Carton](https://shcarton.github.io/) (Postdoc 2022 -> Assistant Professor at the University of New Hampshire)
 * [Vivian Lai](https://vivlai.github.io/) (PhD 2022 -> Research scientist at VISA research) 
 * [Estelle Smith](https://estellesmithphd.com) (Postdoc 2022 -> Assistant Professor at the Colorado School of Mines)
-* [Jason Shuo Zhang](http://www.jasondarkblue.com/) (PhD 2020 -> Postdoc at Max Planck Institute -> ASOS)
+* [Jason Shuo Zhang](http://www.jasondarkblue.com/) (PhD 2020 -> Postdoc at Max Planck Institute -> Machine Learning Scientist at ASOS)
 
 ### Master, Undergrads, and High School Students
 * David Atkinson (Undergrad 2019, University of Colorado Boulder)
