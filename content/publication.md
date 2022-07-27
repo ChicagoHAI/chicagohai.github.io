@@ -4,11 +4,23 @@ title = "Publication"
 
 Preprint
 
+* [Chacha Chen][chacha_chen], [Shi Feng][shi_feng], [Amit Sharma][amit_sharma], and _Chenhao Tan_. [Machine Explanations and Human Understanding](https://arxiv.org/abs/2202.04092).
+* [Vivian Lai][vivian_lai], [Chacha Chen][chacha_chen], [Alison Smith-Renner][alison_smith_renner], [Q. Vera Liao][vera_liao], and _Chenhao Tan_. [Towards a Science of Human-AI Decision Making: A Survey of Empirical Studies](https://arxiv.org/abs/2112.11471).
+* [Himabindu Lakkaraju][hima_lakkaraju], [Dylan Slack][dylan_slack], [Yuxin Chen][yuxin_chen], _Chenhao Tan_, and [Sameer Singh][sameer_singh]. [Rethinking Explainability as a Dialogue: A Practitioner's Perspective](https://arxiv.org/abs/2202.01875)
 
-* _Chenhao Tan_. [On the Diversity and Limits of Human Explanations](https://arxiv.org/abs/2106.11988).
+
+
+2022
+
+* [Vivian Lai][vivian_lai], [Samuel Carton][sam_carton], Rajat Bhatnagar, [Q. Vera Liao][vera_liao], Yunfeng Zhang, and _Chenhao Tan_. [Human-AI Collaboration via Conditional Delegation: A Case Study of Content Moderation](https://arxiv.org/abs/2204.11788). CHI 2022.
+* [Samuel Carton][sam_carton], [Surya Kanoria][surya_kanoria], and _Chenhao Tan_. [What to Learn, and How: Toward Effective Learning from Rationales](https://arxiv.org/abs/2112.00071). Findings of ACL 2022.
+* _Chenhao Tan_. [On the Diversity and Limits of Human Explanations](https://aclanthology.org/2022.naacl-main.158.pdf). NAACL 2022.
+* Jamar L. Sullivan, [Will Brackenbury][will_brackenbury], [Andrew McNutt][andrew_mcnutt], [Kevin Bryson][kevin_bryson], Kwam Byll, [Yuxin Chen][yuxin_chen], [Michael Littman][michael_littman], _Chenhao Tan_, [Blase Ur][blase_ur]. [Explaining Why: How Instructions and User Interfaces Impact Annotator Rationales When Labeling Text Data](https://www.blaseur.com/papers/rationales-naacl22.pdf). NAACL 2022.
+* [C. Estelle Smith][estelle_smith], Irfanul Alam, _Chenhao Tan_, [Brian C. Keegan][brian_keegan], [Anita Blanchard][anita_blanchard]. [The Impact of Governance Bots on Sense of Virtual Community: Development and Validation of the GOV-BOTs Scale](https://drive.google.com/file/d/12xSpAbAqxcDBUxlBtpPsJiAJIUgL9Cbb/view). CSCW 2022.
 
 
 2021
+
 * [Chao-Chun Hsu][chaochun_hsu], _Chenhao Tan_. [Decision-Focused Summarization](https://arxiv.org/abs/2109.06896). EMNLP 2021.
 * [Han Liu][han_liu], [Vivian Lai][vivian_lai], and _Chenhao Tan_. [Understanding the Effect of Out-of-distribution Examples and Interactive Explanations on Human-AI Decision Making](https://arxiv.org/abs/2101.05303). CSCW 2021.
 * [Ramaravind Kommiya Mothilal][ram_mothilal], [Divyat Mahajan][divyat_mahajan], _Chenhao Tan_ and [Amit Sharma](amit_sharma). [Towards Unifying Feature Attribution and Counterfactual Explanations: Different Means to the Same End][aies21_details]. In Proceedings of the Fourth AAAI/ACM conference on Artificial Intelligence, Ethics, and Society (AIES'2021); also presented at the [Reponsible AI workshop](https://sites.google.com/view/rai-workshop/home?authuser=0) at ICLR.
@@ -53,6 +65,7 @@ In Proceedings of 2019 Conference on Empirical Methods in Natural Language Proce
 
 
 2018
+
 * [Jason Shuo Zhang][shuo_zhang], _Chenhao Tan_, and [Qin Lv][qin_lv].   
 	["This is why we play": Characterizing Online Fan Communities of the NBA Teams][cscw18a_details].
 	In Proceedings of the Conference on Computer-Supported Cooperative Work and Social Computing (CSCW'2018).
@@ -85,6 +98,7 @@ In Proceedings of the Conference on Computer-Supported Cooperative Work and Soci
 
 
 2017
+
 * [Yangfeng Ji][yangfeng_ji], _Chenhao Tan_, [Sebastian Martschat][sebastian_martschat], [Yejin Choi][yejin_choi], [Noah A. Smith][noah_smith]    
     [Dynamic Entity Representations in Neural Language Models][emnlp17_details]. In Proceedings of Conference on Empirical Methods in Natural Language Processing (EMNLP'2017).
 * _Chenhao Tan_, [Dallas Card][dallas_card], [Noah A. Smith][noah_smith].         
@@ -93,6 +107,7 @@ In Proceedings of the Conference on Computer-Supported Cooperative Work and Soci
 
 
 2016
+
 * _Chenhao Tan._     
     [Computational approaches to understanding human behavior from online social interactions: Language and Communities][thesis_file].
     PhD thesis.     
@@ -114,11 +129,13 @@ In Proceedings of the Conference on Computer-Supported Cooperative Work and Soci
 
 
 2015
+
 * _Chenhao Tan_, [Lillian Lee][lillian_lee].    
   [All Who Wander: On the Prevalence and Characteristics of Multi-community Engagement][www15_details].
   In Proceedings of the 24th International World Wide Web Conference (WWW'2015).   
 
 2014
+
 * _Chenhao Tan_, [Lillian Lee][lillian_lee], [Bo Pang][bo_pang].    
   [The effect of wording on message propagation: Topic- and author-controlled natural experiments on Twitter][acl14_details].
   In Proceedings of the 52nd Annual Meeting of the Association for Computational Linguistics (ACL'14) \[[Quiz][nyt_quiz_link] on NYT\]\[[Prediction tool][acl14_demo]\] (featured on [The New York Times][nyt_link] and [other media outlets][acl14_details]).     
@@ -130,6 +147,7 @@ In Proceedings of the Conference on Computer-Supported Cooperative Work and Soci
   NBER Behavioral Finance Working Group, 2014.
 
 2013
+
 * _Chenhao Tan_, [Ed H. Chi][ed_chi], [David Huffaker][david_huffaker], [Gueorgi Kossinets][gueorgi_kossinets], [Alexander J. Smola][alex_smola].    
    [Instant Foodie: Predicting Expert Ratings From Grassroots][cikm13_details].
    In Proceedings of 22nd ACM International Conference on Information and Knowledge Management (CIKM'2013).    
@@ -138,6 +156,7 @@ In Proceedings of the Conference on Computer-Supported Cooperative Work and Soci
    In Proceedings of 7th International AAAI Conference on Weblogs and Social Media (ICWSM'2013).    
 
 2012
+
 * _Chenhao Tan_, [Evgeniy Gabrilovich][evgeniy_gabrilovich], [Bo Pang][bo_pang].    
    [To Each His Own: Personalized Content Selection based on Text Comprehensibility][wsdm12_details].
    In Proceedings of the Fifth ACM International Conference on Web Search and Data Mining (WSDM'2012).     
@@ -249,30 +268,36 @@ In Proceedings of the Conference on Computer-Supported Cooperative Work and Soci
 [tal_august]: https://homes.cs.washington.edu/~taugust/
 [claire_cardie]: http://www.cs.cornell.edu/home/cardie/
 [jon_cai]: https://joncaizheng.com/
+[chacha_chen]: https://chacha-chen.github.io
+[yuxin_chen]: https://yuxinchen.org
 [ed_chi]: http://www-users.cs.umn.edu/~echi/
 [eunsol_choi]: http://homes.cs.washington.edu/~eunsol/home.html
 [yejin_choi]: https://homes.cs.washington.edu/~yejin/
 [dallas_card]: http://www.cs.cmu.edu/~dcard/
-[sam_carton]: http://scarton.people.si.umich.edu/
+[sam_carton]: https://shcarton.github.io/
 [tiago_cunha]: https://sites.google.com/site/tiagocunha87/
 [elizabeth_clark]: https://homes.cs.washington.edu/~eaclark7/
 [cristian_danescu_niculescu_mizil]: http://www.cs.cornell.edu/~cristian/
 [isil_erel]: http://u.osu.edu/erel-koksal.1/
+[shi_feng]: http://www.shifeng.umiacs.io
 [adrien_friggeri]: http://www.friggeri.net/
 [evgeniy_gabrilovich]: http://www.cs.technion.ac.il/~gabr/
 [xiaochuang_han]: https://xhan77.github.io/
 [jack_hessel]: http://www.cs.cornell.edu/~jhessel/
-[chaochun_hsu]: https://chaochunhsu.github.io/
+[chaochun_hsu]: https://joe32140.github.io/
 [david_huffaker]: http://www.davehuffaker.com
 [david_jurgens]: http://jurgens.people.si.umich.edu/
+[surya_kanoria]: https://surya-kanoria.github.io
 [brian_keegan]: https://www.brianckeegan.com/
 [jon_kleinberg]: http://www.cs.cornell.edu/home/kleinber
 [gueorgi_kossinets]: https://sites.google.com/site/gkossinets/
 [vivian_lai]: https://vivlai.github.io/
+[hima_lakkaraju]: https://himalakkaraju.github.io
 [lillian_lee]: http://www.cs.cornell.edu/home/llee
 [tao_lei]: http://people.csail.mit.edu/taolei/
 [omer_levy]: https://levyomer.wordpress.com/
 [ping_li]: http://www.stat.cornell.edu/~li/
+[vera_liao]: http://qveraliao.com
 [han_liu]: https://mrsata.github.io/
 [nelson_liu]: https://homes.cs.washington.edu/~nfliu/
 [bin_lu]: http://sites.google.com/site/lubin2010/
@@ -292,9 +317,13 @@ In Proceedings of the Conference on Computer-Supported Cooperative Work and Soci
 [anirudh_rathore]: https://rathoreanirudh.github.io/
 [daniel_romero]: http://www.dromero.org/
 [anne_ross]: https://homes.cs.washington.edu/~ansross/
+[lea_stern]: https://leastern.com/
+[sameer_singh]: https://sameersingh.org
+[dylan_slack]: https://dylanslacks.website
 [roy_schwartz]: https://homes.cs.washington.edu/~roysch/
 [amit_sharma]: http://www.amitsharma.in/
 [noah_smith]: http://homes.cs.washington.edu/~nasmith/
+[alison_smith_renner]: https://alisonmsmith.github.io
 [alex_smola]: alex.smola.org
 [lea_stern]: http://www.leastern.com/
 [jimeng_sun]: http://www.sunlab.org/
@@ -308,6 +337,8 @@ In Proceedings of the Conference on Computer-Supported Cooperative Work and Soci
 [michael_weisbach]: https://u.osu.edu/weisbach.2/
 [yang_yang]: http://yangy.org/
 [shuo_zhang]: http://www.jasondarkblue.com/
+[rosa_zhou]: https://rosafish.github.io
+
 
 
 
