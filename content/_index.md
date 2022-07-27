@@ -152,7 +152,7 @@ Check out our [Twitter](https://twitter.com/ChicagoHAI) account and you might al
 * Anirudh Rathore (Master 2021, University of Colorado Boulder)
 * Kumar Bhargav Srinivasan (Master 2019, University of Colorado Boulder)
 * Hunter Wapman (Master 2019, University of Colorado Boulder)
-* [Xiaochuang Han](https://xhan77.github.io/) (Undergraduate 2019, Georgia Tech -> Master at CMU -> PhD at the University of )
+* [Xiaochuang Han](https://xhan77.github.io/) (Undergraduate 2019, Georgia Tech -> Master at CMU -> PhD at the University of Washington)
 * Jie Wang (Undergrad 2020, University of Colorado Boulder)
 
 

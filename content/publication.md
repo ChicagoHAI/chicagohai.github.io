@@ -266,15 +266,18 @@ In Proceedings of the Conference on Computer-Supported Cooperative Work and Soci
 [//]: <> (links for collaborators)
 [lada_adamic]: http://www.ladamic.com/
 [tal_august]: https://homes.cs.washington.edu/~taugust/
+[will_brackenbury]: https://wbrackenbury.github.io
+[anita_blanchard]: https://pages.charlotte.edu/anitablanchard/
+[kevin_bryson]: https://cs.uchicago.edu/people/kevin-bryson/
 [claire_cardie]: http://www.cs.cornell.edu/home/cardie/
 [jon_cai]: https://joncaizheng.com/
-[chacha_chen]: https://chacha-chen.github.io
-[yuxin_chen]: https://yuxinchen.org
 [ed_chi]: http://www-users.cs.umn.edu/~echi/
 [eunsol_choi]: http://homes.cs.washington.edu/~eunsol/home.html
 [yejin_choi]: https://homes.cs.washington.edu/~yejin/
 [dallas_card]: http://www.cs.cmu.edu/~dcard/
 [sam_carton]: https://shcarton.github.io/
+[chacha_chen]: https://chacha-chen.github.io
+[yuxin_chen]: https://yuxinchen.org
 [tiago_cunha]: https://sites.google.com/site/tiagocunha87/
 [elizabeth_clark]: https://homes.cs.washington.edu/~eaclark7/
 [cristian_danescu_niculescu_mizil]: http://www.cs.cornell.edu/~cristian/
@@ -284,7 +287,7 @@ In Proceedings of the Conference on Computer-Supported Cooperative Work and Soci
 [evgeniy_gabrilovich]: http://www.cs.technion.ac.il/~gabr/
 [xiaochuang_han]: https://xhan77.github.io/
 [jack_hessel]: http://www.cs.cornell.edu/~jhessel/
-[chaochun_hsu]: https://joe32140.github.io/
+[chaochun_hsu]: https://chaochunhsu.github.io
 [david_huffaker]: http://www.davehuffaker.com
 [david_jurgens]: http://jurgens.people.si.umich.edu/
 [surya_kanoria]: https://surya-kanoria.github.io
@@ -298,30 +301,34 @@ In Proceedings of the Conference on Computer-Supported Cooperative Work and Soci
 [omer_levy]: https://levyomer.wordpress.com/
 [ping_li]: http://www.stat.cornell.edu/~li/
 [vera_liao]: http://qveraliao.com
+[michael_littman]: https://www.littmania.com
 [han_liu]: https://mrsata.github.io/
 [nelson_liu]: https://homes.cs.washington.edu/~nfliu/
 [bin_lu]: http://sites.google.com/site/lubin2010/
 [brian_lubars]: http://blubars.github.io/pages/about.html
+[kelvin_luu]: https://kel-lu.github.io
 [qin_lv]: https://www.cs.colorado.edu/~lv/
 [madhu_mahabhaleshwara]: https://madhu-aithal.github.io/
-[michael_macy]: http://www.soc.cornell.edu/faculty/macy.html
 [divyat_mahajan]: http://divy.at/
+[michael_macy]: http://www.soc.cornell.edu/faculty/macy.html
+[andrew_mcnutt]: https://www.mcnutt.in
 [ram_mothilal]: https://raam93.github.io/
-[sendhil_mullainathan]: http://scholar.harvard.edu/sendhil/home
+[sendhil_mullainathan]: https://sendhil.org/
 [vlad_niculae]: http://vene.ro/
 [ziad_obermeyer]: http://ziadobermeyer.com/
 [nigini_oliveira]: https://sites.google.com/view/nigini/
+[anirudh_rathore]: https://rathoreanirudh.github.io/
 [katharina_reinecke]: https://homes.cs.washington.edu/~reinecke/index.html
 [bo_pang]: https://sites.google.com/site/bopang42/
 [hao_peng]: https://homes.cs.washington.edu/~hapeng/
-[anirudh_rathore]: https://rathoreanirudh.github.io/
 [daniel_romero]: http://www.dromero.org/
 [anne_ross]: https://homes.cs.washington.edu/~ansross/
-[lea_stern]: https://leastern.com/
 [sameer_singh]: https://sameersingh.org
 [dylan_slack]: https://dylanslacks.website
+[lea_stern]: https://leastern.com/
 [roy_schwartz]: https://homes.cs.washington.edu/~roysch/
 [amit_sharma]: http://www.amitsharma.in/
+[estelle_smith]: https://estellesmithphd.com
 [noah_smith]: http://homes.cs.washington.edu/~nasmith/
 [alison_smith_renner]: https://alisonmsmith.github.io
 [alex_smola]: alex.smola.org
@@ -334,10 +341,12 @@ In Proceedings of the Conference on Computer-Supported Cooperative Work and Soci
 [ming_zhou]: http://research.microsoft.com/en-us/people/mingzhou
 [sebastian_martschat]: http://smartschat.de/
 [yangfeng_ji]: http://jiyfeng.github.io/
+[blase_ur]: http://blaseur.com
 [michael_weisbach]: https://u.osu.edu/weisbach.2/
 [yang_yang]: http://yangy.org/
 [shuo_zhang]: http://www.jasondarkblue.com/
 [rosa_zhou]: https://rosafish.github.io
+
 
 
 
