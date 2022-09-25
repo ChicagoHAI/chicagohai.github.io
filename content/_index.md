@@ -27,8 +27,6 @@ Check out our [Twitter](https://twitter.com/ChicagoHAI) account and you might al
 * We have a postdoc opening on human-centered AI. Please email [Chenhao](https://chenhaot.com/contact.html) your CV and names of references!
 * In Fall 2022, we will also have openings for postdocs through the [DSI fellowship](http://datascience.uchicago.edu/engage/fellowships/)!
 * We gave a tutorial on human-centered evaluation of explanations at NAACL, and the recorded videos are on [Youtube](https://www.youtube.com/playlist?list=PLegWUnz91Wfu7zWCcFemUv40M9kIikCjZ)!
-* We proposed a novel mode of human-AI interaction through conditional delegation, check out our [paper](https://arxiv.org/abs/2204.11788) at CHI!
-* Chenhao wrote a short position [paper](https://aclanthology.org/2022.naacl-main.158.pdf) titled "On the Diversity and Limits of Human Explanations" at NAACL, a second single-authored paper after 4 years!
 
 
 ## People
@@ -105,12 +103,6 @@ Check out our [Twitter](https://twitter.com/ChicagoHAI) account and you might al
     </figcaption>
 </figure>
 <figure class="photo"  style="display:inline-block;margin:20px;">
-    <img src="Logen_Lee.jpeg" alt="Logen_Lee" style="vertical-align:top;width:120px;" />
-    <figcaption style="text-align:center;">
-        <a href="https://logenleedev.github.io/">Logen Lee</a>
-    </figcaption>
-</figure>
-<figure class="photo"  style="display:inline-block;margin:20px;">
     <img src="zander.jpg" alt="Zander Meitus" style="vertical-align:top;width:120px;" />
     <figcaption style="text-align:center;">
         Zander Meitus
@@ -132,6 +124,12 @@ Check out our [Twitter](https://twitter.com/ChicagoHAI) account and you might al
     <img src="grace.png" alt="Grace Wang" style="vertical-align:top;width:120px;" />
     <figcaption style="text-align:center;">
         Grace Wang
+    </figcaption>
+</figure>
+<figure class="photo"  style="display:inline-block;margin:20px;">
+    <img src="jiamin.jpg" alt="Jiamin Yang" style="vertical-align:top;width:120px;" />
+    <figcaption style="text-align:center;">
+        Jiamin Yang
     </figcaption>
 </figure>
 <figure class="photo"  style="display:inline-block;margin:20px;">
