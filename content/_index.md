@@ -6,7 +6,7 @@ Welcome!
 
 {{< figure class="avatar" src="/avatar.jpg" >}}
 
-Our goal is to build the "best" AI for humans by 1) developing best practices for effective human-AI collaboration through explanations and 2) building robust models that can discover data-driven insights.
+Our goal is to build the best AI for humans by 1) developing best practices for effective human-AI collaboration through explanations and 2) building robust models that can discover data-driven insights.
 We currently work on the following areas:
 
 * Understanding/generating explanations for human-AI interaction,
