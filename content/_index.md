@@ -117,7 +117,7 @@ Check out our [Twitter](https://twitter.com/ChicagoHAI) account and you might al
 <figure class="photo"  style="display:inline-block;margin:20px;">
     <img src="harry_tian.png" alt="Harry Tian" style="vertical-align:top;width:120px;" />
     <figcaption style="text-align:center;">
-        <a href="https://twitter.com/HarryTian17">Harry Tian</a>
+        <a href="https://harry-tian.github.io/">Harry Tian</a>
     </figcaption>
 </figure>
 <figure class="photo"  style="display:inline-block;margin:20px;">
