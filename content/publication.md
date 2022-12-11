@@ -6,12 +6,13 @@ Preprint
 
 * [Chacha Chen][chacha_chen], [Shi Feng][shi_feng], [Amit Sharma][amit_sharma], and _Chenhao Tan_. [Machine Explanations and Human Understanding](https://arxiv.org/abs/2202.04092).
 * [Vivian Lai][vivian_lai], [Chacha Chen][chacha_chen], [Alison Smith-Renner][alison_smith_renner], [Q. Vera Liao][vera_liao], and _Chenhao Tan_. [Towards a Science of Human-AI Decision Making: A Survey of Empirical Studies](https://arxiv.org/abs/2112.11471).
-* [Himabindu Lakkaraju][hima_lakkaraju], [Dylan Slack][dylan_slack], [Yuxin Chen][yuxin_chen], _Chenhao Tan_, and [Sameer Singh][sameer_singh]. [Rethinking Explainability as a Dialogue: A Practitioner's Perspective](https://arxiv.org/abs/2202.01875)
+* [Himabindu Lakkaraju][hima_lakkaraju], [Dylan Slack][dylan_slack], [Yuxin Chen][yuxin_chen], _Chenhao Tan_, and [Sameer Singh][sameer_singh]. [Rethinking Explainability as a Dialogue: A Practitioner's Perspective](https://arxiv.org/abs/2202.01875).
 
 
 
 2022
 
+* [Yiming Zhang][yiming_zhang], [Shi Feng][shi_feng], and _Chenhao Tan_. [Active Example Selection for In-Context Learning](https://arxiv.org/abs/2211.04486). EMNLP 2022. [[blog post](https://chicagohai.github.io/active-example-selection/)]
 * [Vivian Lai][vivian_lai], [Samuel Carton][sam_carton], Rajat Bhatnagar, [Q. Vera Liao][vera_liao], Yunfeng Zhang, and _Chenhao Tan_. [Human-AI Collaboration via Conditional Delegation: A Case Study of Content Moderation](https://arxiv.org/abs/2204.11788). CHI 2022.
 * [Samuel Carton][sam_carton], [Surya Kanoria][surya_kanoria], and _Chenhao Tan_. [What to Learn, and How: Toward Effective Learning from Rationales](https://arxiv.org/abs/2112.00071). Findings of ACL 2022.
 * _Chenhao Tan_. [On the Diversity and Limits of Human Explanations](https://aclanthology.org/2022.naacl-main.158.pdf). NAACL 2022.
@@ -282,7 +283,7 @@ In Proceedings of the Conference on Computer-Supported Cooperative Work and Soci
 [elizabeth_clark]: https://homes.cs.washington.edu/~eaclark7/
 [cristian_danescu_niculescu_mizil]: http://www.cs.cornell.edu/~cristian/
 [isil_erel]: http://u.osu.edu/erel-koksal.1/
-[shi_feng]: http://www.shifeng.umiacs.io
+[shi_feng]: https://ihsgnef.github.io/
 [adrien_friggeri]: http://www.friggeri.net/
 [evgeniy_gabrilovich]: http://www.cs.technion.ac.il/~gabr/
 [xiaochuang_han]: https://xhan77.github.io/
@@ -346,7 +347,7 @@ In Proceedings of the Conference on Computer-Supported Cooperative Work and Soci
 [yang_yang]: http://yangy.org/
 [shuo_zhang]: http://www.jasondarkblue.com/
 [rosa_zhou]: https://rosafish.github.io
-
+[yiming_zhang]: https://y0mingzhang.github.io/
 
 
 
