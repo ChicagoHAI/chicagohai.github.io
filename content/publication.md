@@ -4,10 +4,13 @@ title = "Publication"
 
 Preprint
 
-* [Chacha Chen][chacha_chen], [Shi Feng][shi_feng], [Amit Sharma][amit_sharma], and _Chenhao Tan_. [Machine Explanations and Human Understanding](https://arxiv.org/abs/2202.04092).
-* [Vivian Lai][vivian_lai], [Chacha Chen][chacha_chen], [Alison Smith-Renner][alison_smith_renner], [Q. Vera Liao][vera_liao], and _Chenhao Tan_. [Towards a Science of Human-AI Decision Making: A Survey of Empirical Studies](https://arxiv.org/abs/2112.11471).
+
 * [Himabindu Lakkaraju][hima_lakkaraju], [Dylan Slack][dylan_slack], [Yuxin Chen][yuxin_chen], _Chenhao Tan_, and [Sameer Singh][sameer_singh]. [Rethinking Explainability as a Dialogue: A Practitioner's Perspective](https://arxiv.org/abs/2202.01875).
 
+2023
+
+* [Chacha Chen][chacha_chen], [Shi Feng][shi_feng], [Amit Sharma][amit_sharma], and _Chenhao Tan_. [Machine Explanations and Human Understanding](https://arxiv.org/abs/2202.04092). FAccT 2023. [[survey](https://github.com/Chacha-Chen/Explanations-Human-Studies)]
+* [Vivian Lai][vivian_lai], [Chacha Chen][chacha_chen], [Alison Smith-Renner][alison_smith_renner], [Q. Vera Liao][vera_liao], and _Chenhao Tan_. [Towards a Science of Human-AI Decision Making: A Survey of Empirical Studies](https://arxiv.org/abs/2112.11471). FAccT 2023. [[survey](https://haidecisionmaking.github.io)]
 
 
 2022
