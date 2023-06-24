@@ -43,13 +43,7 @@ Check out our [Twitter](https://twitter.com/ChicagoHAI) account and you might al
     </figcaption>
 </figure>
 
-### Postdocs
-<figure class="photo" style="display:inline-block;margin:20px;">
-    <img src="Shi_Feng.jpeg" alt="Shi_Feng" style="vertical-align:top;width:120px;" />
-    <figcaption style="text-align:center;">
-        <a href="https://ihsgnef.github.io/">Shi Feng</a>
-    </figcaption>
-</figure>
+<!-- ### Postdocs -->
 
 ### PhDs
 
@@ -99,30 +93,6 @@ Check out our [Twitter](https://twitter.com/ChicagoHAI) account and you might al
 ### Masters & Undergrads
 
 <figure class="photo"  style="display:inline-block;margin:20px;">
-    <img src="devriesbp-chai.jpg" alt="Brent DeVries" style="vertical-align:top;width:120px;" />
-    <figcaption style="text-align:center;">
-        Brent DeVries
-    </figcaption>
-</figure>
-<figure class="photo"  style="display:inline-block;margin:20px;">
-    <img src="zander.jpg" alt="Zander Meitus" style="vertical-align:top;width:120px;" />
-    <figcaption style="text-align:center;">
-        Zander Meitus
-    </figcaption>
-</figure>
-<figure class="photo"  style="display:inline-block;margin:20px;">
-    <img src="Kenan_Tang.JPG" alt="Kenan_Tang" style="vertical-align:top;width:120px;" />
-    <figcaption style="text-align:center;">
-        <a href="https://kenantang.github.io/page/">Kenan Tang</a>
-    </figcaption>
-</figure>
-<figure class="photo"  style="display:inline-block;margin:20px;">
-    <img src="harry_tian.png" alt="Harry Tian" style="vertical-align:top;width:120px;" />
-    <figcaption style="text-align:center;">
-        <a href="https://harry-tian.github.io/">Harry Tian</a>
-    </figcaption>
-</figure>
-<figure class="photo"  style="display:inline-block;margin:20px;">
     <img src="grace.png" alt="Grace Wang" style="vertical-align:top;width:120px;" />
     <figcaption style="text-align:center;">
         Grace Wang
@@ -135,13 +105,29 @@ Check out our [Twitter](https://twitter.com/ChicagoHAI) account and you might al
     </figcaption>
 </figure>
 <figure class="photo"  style="display:inline-block;margin:20px;">
-    <img src="yiming.jpg" alt="Yiming_Zhang" style="vertical-align:top;width:120px;" />
+    <img src="Shuyuan_Wang.jpg" alt="Shuyuan Wang" style="vertical-align:top;width:120px;" />
     <figcaption style="text-align:center;">
-        <a href="https://y0mingzhang.github.io/">Yiming Zhang</a>
+        Shuyuan (Lily) Wang
     </figcaption>
 </figure>
-
-
+<figure class="photo"  style="display:inline-block;margin:20px;">
+    <img src="Dang.png" alt="Dang Nguyen" style="vertical-align:top;width:120px;" />
+    <figcaption style="text-align:center;">
+        Dang Nguyen
+    </figcaption>
+</figure>
+<figure class="photo" style="display:inline-block;margin:20px;">
+    <img src="Yixuan.jpg" alt="Yixuan Wang" style="vertical-align:top;width:120px;" />
+    <figcaption style="text-align:center;">
+        <a href="https://am.yixuan-wang.site/">Yixuan (Tom) Wang</a>
+    </figcaption>
+</figure>
+<figure class="photo" style="display:inline-block;margin:20px;">
+    <img src="Yunxi.jpg" alt="Yunxi" style="vertical-align:top;width:120px;" />
+    <figcaption style="text-align:center;">
+        Yunxi (Jessica) Ji</a>
+    </figcaption>
+</figure>
 
 ## Demo links
 * [Machine in the loop](https://machineintheloop.com/)
@@ -153,12 +139,20 @@ Check out our [Twitter](https://twitter.com/ChicagoHAI) account and you might al
 ## Alumni
 
 ### PhDs & Postdocs
+
+* [Shi Feng](https://ihsgnef.github.io/) (Postdoc 2023 -> Research Associate at NYU -> Assistant Professor at George Washington University)
 * [Samuel Carton](https://shcarton.github.io/) (Postdoc 2022 -> Assistant Professor at the University of New Hampshire)
 * [Vivian Lai](https://vivlai.github.io/) (PhD 2022 -> Research scientist at VISA research) 
 * [Estelle Smith](https://estellesmithphd.com) (Postdoc 2022 -> Assistant Professor at the Colorado School of Mines)
 * [Jason Shuo Zhang](http://www.jasondarkblue.com/) (PhD 2020 -> Postdoc at Max Planck Institute -> Machine Learning Scientist at ASOS)
 
 ### Master, Undergrads, and High School Students
+
+* Brent DeVries (Master 2023)
+* Zander Meitus (Master 2023)
+* [Harry Tian](https://harry-tian.github.io/) (Master 2023 -> PhD at Purdue University)
+* [Yiming Zhang](https://y0mingzhang.github.io) (Master 2023 -> PhD at CMU)
+* [Kenan Tang](https://kenantang.github.io/page/) (Undergrad 2023 -> PhD at UCSB)
 * David Atkinson (Undergrad 2019, University of Colorado Boulder)
 * Rajat Bhatnagar (Master 2021, University of Colorado Boulder)
 * Ava Bartolome (Undergrad 2022, Clark University -> PhD at the University of Minnesota)
