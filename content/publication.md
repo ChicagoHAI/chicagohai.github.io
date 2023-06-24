@@ -1,5 +1,6 @@
 +++
-title = "Publication"
+title = "Publication | CHAI"
+description = "CHAI's publications."
 +++
 
 Preprint

@@ -9,7 +9,7 @@ publishDir = "docs"
 
 [params]
   author = "CHAI"
-  description = "We are a research lab working on developing the best AI for humans at the University of Chicago."
+  description = "CHAI is a research lab working on developing the best AI for humans at the University of Chicago."
   favicon = "favicon.ico"  # path to a .ico to use as favicon
   css = ["css/custom.css"]
   googleAnalytics = "UA-186917619-1"

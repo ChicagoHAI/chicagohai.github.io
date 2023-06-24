@@ -1,5 +1,6 @@
 +++
-title = "Homepage"
+title = "CHAI"
+images = ["avatar.jpg"]
 +++
 
 Welcome!
