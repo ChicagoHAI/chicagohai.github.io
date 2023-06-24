@@ -4,7 +4,7 @@ title = "Publication"
 
 Preprint
 
-* [Emre Kıcıman][emre_kiciman], [Robert Ness][robert_ness], [Amit Sharma](amit_sharma), and _Chenhao Tan_. [Causal Reasoning and Large Language Models: Opening a New Frontier for Causality](https://arxiv.org/abs/2305.00050)
+* [Emre Kıcıman][emre_kiciman], [Robert Ness][robert_ness], [Amit Sharma][amit_sharma], and _Chenhao Tan_. [Causal Reasoning and Large Language Models: Opening a New Frontier for Causality](https://arxiv.org/abs/2305.00050)
 * [Karen Zhou][karen_zhou] and _Chenhao Tan_. [Characterizing Political Bias in Automatic Summaries: A Case Study of Trump and Biden](https://arxiv.org/abs/2305.02321)
 * [Nan-Jiang Jiang][nanjiang_jiang], _Chenhao Tan_, and [Marie-Catherine de Marneffe][marie_marneffe]. [Understanding and Predicting Human Label Variation in Natural Language Inference through Explanation](https://arxiv.org/abs/2304.12443)
 * [Himabindu Lakkaraju][hima_lakkaraju], [Dylan Slack][dylan_slack], [Yuxin Chen][yuxin_chen], _Chenhao Tan_, and [Sameer Singh][sameer_singh]. [Rethinking Explainability as a Dialogue: A Practitioner's Perspective](https://arxiv.org/abs/2202.01875).
@@ -296,16 +296,19 @@ In Proceedings of the Conference on Computer-Supported Cooperative Work and Soci
 [elizabeth_clark]: https://homes.cs.washington.edu/~eaclark7/
 [cristian_danescu_niculescu_mizil]: http://www.cs.cornell.edu/~cristian/
 [isil_erel]: http://u.osu.edu/erel-koksal.1/
-[shi_feng]: https://ihsgnef.github.io/
+[shi_feng]: http://www.shifeng.umiacs.io
 [adrien_friggeri]: http://www.friggeri.net/
 [evgeniy_gabrilovich]: http://www.cs.technion.ac.il/~gabr/
 [xiaochuang_han]: https://xhan77.github.io/
+[mourad_heddaya]: https://people.cs.uchicago.edu/~mourad/
 [jack_hessel]: http://www.cs.cornell.edu/~jhessel/
 [chaochun_hsu]: https://chaochunhsu.github.io
 [david_huffaker]: http://www.davehuffaker.com
+[nanjiang_jiang]: https://njjiang.github.io/
 [david_jurgens]: http://jurgens.people.si.umich.edu/
 [surya_kanoria]: https://surya-kanoria.github.io
 [brian_keegan]: https://www.brianckeegan.com/
+[emre_kiciman]: https://kiciman.org/
 [jon_kleinberg]: http://www.cs.cornell.edu/home/kleinber
 [gueorgi_kossinets]: https://sites.google.com/site/gkossinets/
 [vivian_lai]: https://vivlai.github.io/
@@ -318,16 +321,19 @@ In Proceedings of the Conference on Computer-Supported Cooperative Work and Soci
 [michael_littman]: https://www.littmania.com
 [han_liu]: https://mrsata.github.io/
 [nelson_liu]: https://homes.cs.washington.edu/~nfliu/
+[tracy_xiao_liu]: https://tracyxliu.com/
 [bin_lu]: http://sites.google.com/site/lubin2010/
 [brian_lubars]: http://blubars.github.io/pages/about.html
 [kelvin_luu]: https://kel-lu.github.io
 [qin_lv]: https://www.cs.colorado.edu/~lv/
 [madhu_mahabhaleshwara]: https://madhu-aithal.github.io/
 [divyat_mahajan]: http://divy.at/
+[marie_marneffe]: https://www.asc.ohio-state.edu/demarneffe.1/
 [michael_macy]: http://www.soc.cornell.edu/faculty/macy.html
 [andrew_mcnutt]: https://www.mcnutt.in
 [ram_mothilal]: https://raam93.github.io/
 [sendhil_mullainathan]: https://sendhil.org/
+[robert_ness]: https://www.linkedin.com/in/osazuwa/
 [vlad_niculae]: http://vene.ro/
 [ziad_obermeyer]: http://ziadobermeyer.com/
 [nigini_oliveira]: https://sites.google.com/view/nigini/
@@ -335,6 +341,7 @@ In Proceedings of the Conference on Computer-Supported Cooperative Work and Soci
 [katharina_reinecke]: https://homes.cs.washington.edu/~reinecke/index.html
 [bo_pang]: https://sites.google.com/site/bopang42/
 [hao_peng]: https://homes.cs.washington.edu/~hapeng/
+[sandy_pentland]: https://www.media.mit.edu/people/sandy/overview/
 [daniel_romero]: http://www.dromero.org/
 [anne_ross]: https://homes.cs.washington.edu/~ansross/
 [sameer_singh]: https://sameersingh.org
@@ -356,11 +363,15 @@ In Proceedings of the Conference on Computer-Supported Cooperative Work and Soci
 [sebastian_martschat]: http://smartschat.de/
 [yangfeng_ji]: http://jiyfeng.github.io/
 [blase_ur]: http://blaseur.com
+[rob_voigt]: https://faculty.wcas.northwestern.edu/robvoigt/
 [michael_weisbach]: https://u.osu.edu/weisbach.2/
 [yang_yang]: http://yangy.org/
+[yuan_yuan]: https://www.yuan-yy.com/
+[alex_zentefis]: https://www.alexanderkzentefis.com/
 [shuo_zhang]: http://www.jasondarkblue.com/
 [rosa_zhou]: https://rosafish.github.io
 [yiming_zhang]: https://y0mingzhang.github.io/
+[karen_zhou]: https://karen-zhou.com/
 
 
 
