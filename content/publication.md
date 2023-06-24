@@ -4,17 +4,27 @@ title = "Publication"
 
 Preprint
 
-
+* [Emre Kıcıman][emre_kiciman], [Robert Ness][robert_ness], [Amit Sharma](amit_sharma), and _Chenhao Tan_. [Causal Reasoning and Large Language Models: Opening a New Frontier for Causality](https://arxiv.org/abs/2305.00050)
+* [Karen Zhou][karen_zhou] and _Chenhao Tan_. [Characterizing Political Bias in Automatic Summaries: A Case Study of Trump and Biden](https://arxiv.org/abs/2305.02321)
+* [Nan-Jiang Jiang][nanjiang_jiang], _Chenhao Tan_, and [Marie-Catherine de Marneffe][marie_marneffe]. [Understanding and Predicting Human Label Variation in Natural Language Inference through Explanation](https://arxiv.org/abs/2304.12443)
 * [Himabindu Lakkaraju][hima_lakkaraju], [Dylan Slack][dylan_slack], [Yuxin Chen][yuxin_chen], _Chenhao Tan_, and [Sameer Singh][sameer_singh]. [Rethinking Explainability as a Dialogue: A Practitioner's Perspective](https://arxiv.org/abs/2202.01875).
 
 2023
 
+* [Vivian Lai][vivian_lai], [Yiming Zhang][yiming_zhang], [Chacha Chen][chacha_chen], [Q. Vera Liao][vera_liao], and _Chenhao Tan_. [Selective Explanations: Leveraging Human Input to Align Explainable AI](https://arxiv.org/abs/2301.09656). CSCW 2023.
 * [Chacha Chen][chacha_chen], [Shi Feng][shi_feng], [Amit Sharma][amit_sharma], and _Chenhao Tan_. [Machine Explanations and Human Understanding](https://arxiv.org/abs/2202.04092). FAccT 2023. [[survey](https://github.com/Chacha-Chen/Explanations-Human-Studies)]
 * [Vivian Lai][vivian_lai], [Chacha Chen][chacha_chen], [Alison Smith-Renner][alison_smith_renner], [Q. Vera Liao][vera_liao], and _Chenhao Tan_. [Towards a Science of Human-AI Decision Making: A Survey of Empirical Studies](https://arxiv.org/abs/2112.11471). FAccT 2023. [[survey](https://haidecisionmaking.github.io)]
-
+* [Mourad Heddaya][mourad_heddaya], Solomon Dworkin, _Chenhao Tan_, [Rob Voigt][rob_voigt], and [Alexander Zentefis][alex_zentefis]. Language of Bargaining. ACL 2023.
+* [Yangqiaoyu Zhou](rosa_zhou), [Yiming Zhang][yiming_zhang], and _Chenhao Tan_. FLamE: Few-shot Learning from Natural Language Explanations. ACL 2023.
+* [Han Liu][han_liu], [Yizhou Tian](https://harry-tian.github.io), [Chacha Chen][chacha_chen], [Shi Feng][shi_feng], [Yuxin Chen][yuxin_chen], and _Chenhao Tan_. [Learning Human-Compatible Representations for Case-Based Decision Support](https://arxiv.org/abs/2303.04809). In Proceedings of ICLR 2023.
+* [Yiming Zhang][yiming_zhang], [Yangqiaoyu Zhou][rosa_zhou], [Samuel Carton][sam_carton] and _Chenhao Tan_. [Learning to Ignore Adversarial Attacks](https://arxiv.org/abs/2205.11551). In Proceedings of EACL 2023.
+* [Yuan Yuan][yuan_yuan], [Tracy Xiao Liu][tracy_xiao_liu], _Chenhao Tan_, Qian Chen, [Alex 'Sandy' Pentland][sandy_pentland], and [Jie Tang][jie_tang]. Gift Contagion in Online Groups: Evidence From Virtual Red Packets. Management Science. 2023.
+* Xuan Yang, [Yang Yang][yang_yang], _Chenhao Tan_, Yinghe Lin,
+Zhengzhe Fu, Fei Wu, and Yueting Zhuang. [Unfolding and Modeling the Recovery Process after COVID Lockdowns](https://www.nature.com/articles/s41598-023-30100-5). Scientific Reports. 2023.
 
 2022
 
+* [Han Liu][han_liu], [Yizhou Tian](https://harry-tian.github.io), [Chacha Chen][chacha_chen], [Shi Feng][shi_feng], [Yuxin Chen][yuxin_chen], _Chenhao Tan_. [Towards Effective Case-Based Decision Support with Human-Compatible Representations](https://drive.google.com/file/d/1Jo_UxAb69B-v5oqET8-qjzQIvDsXt-fF/view?usp=sharing). In Proceedings of the 1st ICML 2022 Workshop on Human-Machine Collaboration and Teaming.
 * [Yiming Zhang][yiming_zhang], [Shi Feng][shi_feng], and _Chenhao Tan_. [Active Example Selection for In-Context Learning](https://arxiv.org/abs/2211.04486). EMNLP 2022. [[blog post](https://chicagohai.github.io/active-example-selection/)]
 * [Vivian Lai][vivian_lai], [Samuel Carton][sam_carton], Rajat Bhatnagar, [Q. Vera Liao][vera_liao], Yunfeng Zhang, and _Chenhao Tan_. [Human-AI Collaboration via Conditional Delegation: A Case Study of Content Moderation](https://arxiv.org/abs/2204.11788). CHI 2022.
 * [Samuel Carton][sam_carton], [Surya Kanoria][surya_kanoria], and _Chenhao Tan_. [What to Learn, and How: Toward Effective Learning from Rationales](https://arxiv.org/abs/2112.00071). Findings of ACL 2022.
