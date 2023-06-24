@@ -123,9 +123,9 @@ Check out our [Twitter](https://twitter.com/ChicagoHAI) account and you might al
     </figcaption>
 </figure>
 <figure class="photo" style="display:inline-block;margin:20px;">
-    <img src="Yunxi.jpg" alt="Yunxi" style="vertical-align:top;width:120px;" />
+    <img src="Yuxin.jpg" alt="Yuxin Ji" style="vertical-align:top;width:120px;" />
     <figcaption style="text-align:center;">
-        Yunxi (Jessica) Ji</a>
+        Yuxin (Jessica) Ji</a>
     </figcaption>
 </figure>
 
