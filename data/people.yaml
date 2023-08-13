@@ -1,0 +1,43 @@
+# yaml-language-server: $schema=./people.schema.json
+people:
+  faculty:
+    - id: chenhao_tan
+      name: Chenhao Tan
+      homepage: https://chenhaot.com
+  postdoc: []
+  phd:
+    - id: joe_hsu
+      name: Chao-Chun (Joe) Hsu
+      homepage: https://chaochunhsu.github.io/
+    - id: han_liu
+      name: Han Liu
+      homepage: https://hanliuai.github.io/
+    - id: rosa_zhou
+      name: Yangqiaoyu (Rosa) Zhou
+      homepage: https://rosafish.github.io/
+    - id: karen_zhou
+      name: Karen Zhou
+      homepage: https://karen-zhou.com/
+    - id: chacha_chen
+      name: Chacha Chen
+      homepage: https://chacha-chen.github.io/
+    - id: mourad_heddaya
+      name: Mourad Heddaya
+      homepage: https://people.cs.uchicago.edu/~mourad/
+    - id: chenghao_yang
+      name: Chenghao Yang
+      homepage: https://yangalan123.github.io/
+  ms_and_undergrad:
+    - id: grace_wang
+      name: Grace Wang
+    - id: jiamin_yang
+      name: Jiamin Yang
+    - id: lily_wang
+      name: Shuyuan (Lily) Wang
+    - id: dang_nguyen
+      name: Dang Nguyen
+    - id: tom_wang
+      name: Yixuan (Tom) Wang
+      homepage: https://am.yixuan-wang.site/
+    - id: jessica_ji
+      name: Yuxin (Jessica) Ji

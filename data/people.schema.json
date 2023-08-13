@@ -1,0 +1,62 @@
+{
+    "$schema": "http://json-schema.org/schema",
+    "$id": "https://chicagohai.github.io/people.schema.json",
+    "title": "People of CHAI",
+    "description": "People information of CHAI",
+    "type": "object",
+    "properties": {
+        "people": {
+            "type": "object",
+            "description": "People list of CHAI",
+            "properties": {
+                "faculty": {
+                    "$ref": "#/definitions/list_person"
+                },
+                "postdoc": {
+                    "$ref": "#/definitions/list_person"
+                },
+                "phd": {
+                    "$ref": "#/definitions/list_person"
+                },
+                "ms_and_undergrad": {
+                    "$ref": "#/definitions/list_person"
+                }
+            },
+            "required": [
+                "faculty",
+                "postdoc",
+                "phd",
+                "ms_and_undergrad"
+            ]
+        }
+    },
+    "definitions": {
+        "person": {
+            "type": "object",
+            "description": "A person from CHAI",
+            "properties": {
+                "id": {
+                    "type": "string",
+                    "description": "An ID of ther person"
+                },
+                "name": {
+                    "type": "string",
+                    "description": "The person's name"
+                },
+                "homepage": {
+                    "type": "string",
+                    "format": "uri",
+                    "description": "Link to the person's homepage. _Optional_."
+                }
+            },
+            "required": [ "name" ]
+        },
+        "list_person": {
+            "type": "array",
+            "items": {
+                "$ref": "#/definitions/person"
+            }
+        }
+    },
+    "required": [ "people" ]
+}

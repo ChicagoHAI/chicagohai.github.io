@@ -1,0 +1,15 @@
+<figure class="people__person">
+    {{ $image := resources.GetMatch (print "images/people/" .id ".*") }}
+    {{ with $image }}
+    <img class="people__image" src="{{ .RelPermalink }}" alt="{{ $.name }}">
+    {{ else }}
+    <img class="people__image" src="avatar.jpg" alt="{{ $.name }}">
+    {{ end }}
+    <figcaption class="people__caption">
+        {{ with .homepage }}
+        <a href="{{ . }}">{{ $.name }}</a>
+        {{ else }}
+        {{ $.name }}
+        {{ end }}
+    </figcaption>
+</figure>

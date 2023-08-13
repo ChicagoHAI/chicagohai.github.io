@@ -1,0 +1,22 @@
+{{ $people := .Site.Data.people.people }}
+
+{{ $groupNameDisplay := (dict
+    "faculty" "Faculty"
+    "postdoc" "Postdocs"
+    "phd" "PhDs"
+    "ms_and_undergrad" "Masters & Undergrads"
+)}}
+
+{{ range $groupName := slice "faculty" "postdoc" "phd" "ms_and_undergrad" }}
+    {{ $group := index $people $groupName }}
+    {{ if $group }}
+    <h3 class="people__title">{{ index $groupNameDisplay $groupName}}</h3>
+    <div
+        class="people__group"
+    >
+        {{ range $person := $group }}
+        {{ partial "person.html" $person }}
+        {{ end }}
+    </div>
+    {{ end }}
+{{ end }}
