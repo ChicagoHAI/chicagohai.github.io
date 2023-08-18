@@ -162,8 +162,44 @@ header {
         }
     }
 
+    .news {
+        &__archive {
+            display: flex;
+            flex-direction: column;
+            gap: 1rem;
+        }
+        
+        &__summary {
+            display: grid;
+            grid-template-columns: auto 1fr;
+            gap: 0.125rem 0.5rem;
+            justify-items: start;
+        }
+        &__time {
+            font-weight: bold;
+        }
+
+        &__description p {
+            display: inline;
+        }
+    }
 
 }
+
+.shortcode-card {
+    display: flex;
+    flex-direction: column;
+    gap: 0.25rem;
+    background: #ffd8d1;
+    border-radius: 0.5rem;
+    padding: 1rem;
+    margin-bottom: 0.5rem;
+
+    & > * {
+        margin: 0 !important;
+    }
+}
+
 #footer {
     a {
         @extend %link-dark;

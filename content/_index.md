@@ -25,7 +25,7 @@ Check out our [Twitter](https://twitter.com/ChicagoHAI) account and you might al
 
 ## News
 
-{{< include page="news" >}}
+{{< summaryNews >}}
 
 ## People
 

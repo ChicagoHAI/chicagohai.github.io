@@ -1,0 +1,14 @@
+<div class="news__summary">
+{{ with .Site.GetPage "section" "news" }}
+    {{ range .Pages }}
+    <span><a href="{{ .Permalink }}"><strong>{{ .Date.Format "Jan 2, 2006" }}</strong></a></span>
+    <span class="news__description">
+        {{ if .Params.contentAsDesc }}
+            {{ .Content }}
+        {{ else }}
+            {{ .Description | markdownify }}
+        {{ end }}
+    </span>
+    {{ end }}
+{{ end }}
+</div>

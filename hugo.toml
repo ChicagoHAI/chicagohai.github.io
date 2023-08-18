@@ -31,9 +31,14 @@ footer = { text = "A warm cup of CHAI" }
   weight = 2
 
 [[menu.main]]
-  name = "Publication"
-  url = "/publication"
+  name = "News"
+  url = "/news"
   weight = 3
+
+[[menu.main]]
+  name = "Pub"
+  url = "/publication"
+  weight = 4
 
 [markup.goldmark.renderer]
   unsafe = true  # allow raw HTML in markdown files

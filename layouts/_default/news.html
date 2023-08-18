@@ -1,0 +1,20 @@
+{{ define "main" }}
+<div class="container">
+    <h1>{{ .Title }}</h1>
+    <div class="news__archive">
+        {{ range .Pages }}
+            <div class="news__card shortcode-card">
+                <h2 class="news__title"><a href="{{ .Permalink }}">{{ .Title }}</a></h2>
+                <time class="news__time">{{ .Date.Format "Jan 2, 2006" }}</time>
+                <p class="news__description">
+                    {{ if .Params.contentAsDesc }}
+                        {{ .Content }}
+                    {{ else }}
+                        {{ .Description | markdownify }}
+                    {{ end }}
+                </p>
+            </div>
+        {{ end }}
+    </div>
+</div>
+{{ end }}
