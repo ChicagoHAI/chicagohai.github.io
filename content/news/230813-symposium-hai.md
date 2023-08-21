@@ -17,6 +17,26 @@ AI has achieved impressive success in a wide variety of domains, ranging from me
 
 See [tentative agenda](#preliminary-schedule) below.
 
+
+<figure class="photo" style="display:inline-block;margin:20px;">
+    <img src="https://www.cs.cmu.edu/~jbigham/pics/jbigham-2023.jpg" alt="Jeffrey Bigham" style="vertical-align:top;width:120px;" />
+    <figcaption style="text-align:center;">
+        Jeffrey Bigham
+    </figcaption>
+</figure>
+<figure class="photo" style="display:inline-block;margin:20px;">
+    <img src="Yuxin.jpg" alt="Yuxin Ji" style="vertical-align:top;width:120px;" />
+    <figcaption style="text-align:center;">
+        Marti Hearst
+    </figcaption>
+</figure>
+<figure class="photo" style="display:inline-block;margin:20px;">
+    <img src="Yuxin.jpg" alt="Yuxin Ji" style="vertical-align:top;width:120px;" />
+    <figcaption style="text-align:center;">
+        Zachary Lipton
+    </figcaption>
+</figure>
+
  - Jeffrey Bigham
  - Marti Hearst
  - Zachary Lipton
