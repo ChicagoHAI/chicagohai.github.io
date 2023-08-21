@@ -47,11 +47,11 @@ Check out our [Twitter](https://twitter.com/ChicagoHAI) account and you might al
 
 ### Master, Undergrads, and High School Students
 
-* Brent DeVries (Master 2023)
 * Zander Meitus (Master 2023)
 * [Harry Tian](https://harry-tian.github.io/) (Master 2023 -> PhD at Purdue University)
 * [Yiming Zhang](https://y0mingzhang.github.io) (Master 2023 -> PhD at CMU)
 * [Kenan Tang](https://kenantang.github.io/page/) (Undergrad 2023 -> PhD at UCSB)
+* Brent DeVries (Undergraduate 2022)
 * David Atkinson (Undergrad 2019, University of Colorado Boulder)
 * Rajat Bhatnagar (Master 2021, University of Colorado Boulder)
 * Ava Bartolome (Undergrad 2022, Clark University -> PhD at the University of Minnesota)

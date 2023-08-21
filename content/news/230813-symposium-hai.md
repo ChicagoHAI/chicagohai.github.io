@@ -24,13 +24,21 @@ See [tentative agenda](#preliminary-schedule) below.
  - Sanjog Misra
  - Mark Riedl
 
+## Registration
+
+If you plan to attend, please fill out this one-minute survey. Registration is free. It would help us plan how much food to buy.
+
+Please register [here](https://forms.gle/FBd1s3SW2cMULopx8) by September 15.
+
 ## Call for poster presentations
 
 We invite all researchers and practitioners to submit poster presentations for the Symposium on Human+AI. This is an excellent opportunity to showcase your work, share insights, and engage in discussions about the intersection of AI and human society. We are particularly interested in presentations that examine opportunities and challenges to achieve complementary and beneficent AI.
 
-Poster presenters will have the opportunity to display their posters at the Symposium and engage with fellow attendees during poster sessions. This is a chance to receive feedback, establish collaborations, and contribute to meaningful conversations about the future of interaction between humans and AI. Please submit your abstract [here](https://forms.gle/6wcXUzPBvv8tGQuHA).
+Poster presenters will have the opportunity to display their posters at the Symposium and engage with fellow attendees during poster sessions. This is a chance to receive feedback, establish collaborations, and contribute to meaningful conversations about the future of interaction between humans and AI. Please submit your abstract [here](https://forms.gle/6wcXUzPBvv8tGQuHA) by September 8, 2023.
 
-The organizing committee for the Human + AI Conference is [Chenhao Tan](https://cs.uchicago.edu/people/chenhao-tan/), [Sendhil Mullainathan](https://www.chicagobooth.edu/faculty/directory/m/sendhil-mullainathan), and [James Evans](https://sociology.uchicago.edu/directory/james-evans). This event is made possible by generous support of the [Stevanovich Center for Financial Mathematics](https://stevanovichcenter.uchicago.edu/).
+## Organization
+
+The organizingi committee for the Human + AI Conference is [Chenhao Tan](https://cs.uchicago.edu/people/chenhao-tan/), [Sendhil Mullainathan](https://www.chicagobooth.edu/faculty/directory/m/sendhil-mullainathan), and [James Evans](https://sociology.uchicago.edu/directory/james-evans). This event is made possible by generous support of the [Stevanovich Center for Financial Mathematics](https://stevanovichcenter.uchicago.edu/). [Mourad Heddaya](https://people.cs.uchicago.edu/~mourad/) leads the program committee and [Yixuan Wang](https://am.yixuan-wang.site/) is the web master.
 
 ## Preliminary schedule
 
