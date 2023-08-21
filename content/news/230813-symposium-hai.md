@@ -69,7 +69,7 @@ Poster presenters will have the opportunity to display their posters at the Symp
 
 ## Organization
 
-The organizing committee for the Human + AI Conference is [Chenhao Tan](https://cs.uchicago.edu/people/chenhao-tan/), [Sendhil Mullainathan](https://www.chicagobooth.edu/faculty/directory/m/sendhil-mullainathan), and [James Evans](https://sociology.uchicago.edu/directory/james-evans). This event is made possible by generous support of the [Stevanovich Center for Financial Mathematics](https://stevanovichcenter.uchicago.edu/). [Mourad Heddaya](https://people.cs.uchicago.edu/~mourad/) leads the program committee and [Yixuan Wang](https://am.yixuan-wang.site/) is the web master.
+The organizing committee for the Human + AI Conference is [Chenhao Tan](https://cs.uchicago.edu/people/chenhao-tan/), [Sendhil Mullainathan](https://www.chicagobooth.edu/faculty/directory/m/sendhil-mullainathan), and [James Evans](https://sociology.uchicago.edu/directory/james-evans). This event is made possible by generous support of the [Stevanovich Center for Financial Mathematics](https://stevanovichcenter.uchicago.edu/). [Mourad Heddaya](https://mheddaya.com) leads the program committee and [Yixuan Wang](https://am.yixuan-wang.site/) is the web master.
 
 ## Preliminary schedule
 
