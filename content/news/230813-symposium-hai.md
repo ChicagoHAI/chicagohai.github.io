@@ -37,7 +37,7 @@ See [tentative agenda](#preliminary-schedule) below.
     </figcaption>
 </figure>
 <figure class="photo" style="display:inline-block;margin:20px;">
-    <img src="https://www.jennlogg.com/uploads/2/8/9/2/2892148/editor/loggjenn-160921-0046_1.jpeg" alt="Jenn Logg" style="vertical-align:top;width:120px;" />
+    <img src="https://gu360.file.force.com/servlet/servlet.ImageServer?id=0151Q0000051XiMQAU&oid=00D36000000rQpzEAE" alt="Jenn Logg" style="vertical-align:top;width:120px;" />
     <figcaption style="text-align:center;">
         Jenn Logg
     </figcaption>
@@ -49,7 +49,7 @@ See [tentative agenda](#preliminary-schedule) below.
     </figcaption>
 </figure>
 <figure class="photo" style="display:inline-block;margin:20px;">
-    <img src="https://eilab.gatech.edu/assets/images/mark-potato.jpg" alt="Mark Riedl" style="vertical-align:top;width:120px;" />
+    <img src="https://research.gatech.edu/sites/default/files/styles/people_page/public/photos/mark_riedl_002.jpg?h=04d92ac6&itok=4v6bvoo1" alt="Mark Riedl" style="vertical-align:top;width:120px;" />
     <figcaption style="text-align:center;">
         Mark Riedl
     </figcaption>
