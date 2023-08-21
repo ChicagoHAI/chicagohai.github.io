@@ -25,24 +25,35 @@ See [tentative agenda](#preliminary-schedule) below.
     </figcaption>
 </figure>
 <figure class="photo" style="display:inline-block;margin:20px;">
-    <img src="Yuxin.jpg" alt="Yuxin Ji" style="vertical-align:top;width:120px;" />
+    <img src="https://www.ischool.berkeley.edu/sites/default/files/styles/fullscreen/public/marti_hearst.jpg" alt="Marti Hearst" style="vertical-align:top;width:120px;" />
     <figcaption style="text-align:center;">
         Marti Hearst
     </figcaption>
 </figure>
 <figure class="photo" style="display:inline-block;margin:20px;">
-    <img src="Yuxin.jpg" alt="Yuxin Ji" style="vertical-align:top;width:120px;" />
+    <img src="https://acmilab.org/uploaded_files/profile_pics/cartoon-profile-square.jpeg" alt="Zachary Lipton" style="vertical-align:top;width:120px;" />
     <figcaption style="text-align:center;">
         Zachary Lipton
     </figcaption>
 </figure>
-
- - Jeffrey Bigham
- - Marti Hearst
- - Zachary Lipton
- - Jenn Logg
- - Sanjog Misra
- - Mark Riedl
+<figure class="photo" style="display:inline-block;margin:20px;">
+    <img src="https://www.jennlogg.com/uploads/2/8/9/2/2892148/editor/loggjenn-160921-0046_1.jpeg" alt="Jenn Logg" style="vertical-align:top;width:120px;" />
+    <figcaption style="text-align:center;">
+        Jenn Logg
+    </figcaption>
+</figure>
+<figure class="photo" style="display:inline-block;margin:20px;">
+    <img src="https://sanjogmisra.com/Misra_Cartoon_Face.png" alt="Sanjog Misra" style="vertical-align:top;width:120px;" />
+    <figcaption style="text-align:center;">
+        Sanjog Misra
+    </figcaption>
+</figure>
+<figure class="photo" style="display:inline-block;margin:20px;">
+    <img src="https://eilab.gatech.edu/assets/images/mark-potato.jpg" alt="Mark Riedl" style="vertical-align:top;width:120px;" />
+    <figcaption style="text-align:center;">
+        Mark Riedl
+    </figcaption>
+</figure>
 
 ## Registration
 
