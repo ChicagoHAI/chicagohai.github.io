@@ -39,9 +39,13 @@ $y-medium: 1.0rem;
     font-family: "Inconsolata";
     line-height: 1.2;
 }
-.container {
-    max-width: $max-width;
+
+@media (min-width: 768px) {
+    .container {
+        max-width: 768px;
+    }
 }
+
 .navbar-brand {
     @extend %link-dark;
     font-size: 2rem;
@@ -142,48 +146,6 @@ header {
             padding: 8px 8px;
         }
     }
-
-    .people {
-        &__group {
-            display: grid;
-            grid-template-columns: repeat(3, minmax(0, 1fr));
-            justify-items: center;
-            gap: 1em;
-        }
-        &__image {
-            width: 120px;
-            height: 120px;
-            border-radius: 50%;
-        }
-        &__person {
-            display: flex;
-            flex-direction: column;
-            align-items: center;
-        }
-    }
-
-    .news {
-        &__archive {
-            display: flex;
-            flex-direction: column;
-            gap: 1rem;
-        }
-        
-        &__summary {
-            display: grid;
-            grid-template-columns: auto 1fr;
-            gap: 0.125rem 0.5rem;
-            justify-items: start;
-        }
-        &__time {
-            font-weight: bold;
-        }
-
-        &__description p {
-            display: inline;
-        }
-    }
-
 }
 
 .shortcode-card {

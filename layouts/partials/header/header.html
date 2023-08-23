@@ -1,6 +1,7 @@
 <div class="container mt-5">
     <nav class="navbar navbar-expand-sm flex-column flex-sm-row text-nowrap p-0">
-        <a class="navbar-brand mx-0 mr-sm-auto title" href="{{ .Site.BaseURL }}">{{ .Site.Title }}</a>
+        <a id="header__title" class="navbar-brand mx-0 mr-sm-auto title" href="{{ .Site.BaseURL }}">{{ .Site.Title }}</a>
+        <a id="header__title_abbr" class="navbar-brand mx-0 mr-sm-auto title" href="{{ .Site.BaseURL }}">{{ .Site.Params.titleAbbr }}</a>
         <div class="navbar-nav flex-row flex-wrap justify-content-center">
             {{ with .Site.Menus.main }}
                 {{ $navbar_len := len . }}
