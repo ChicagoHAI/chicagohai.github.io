@@ -49,7 +49,7 @@ See [tentative agenda](#preliminary-schedule) below.
     </figcaption>
 </figure>
 <figure class="photo" style="display:inline-block;margin:20px;">
-    <img src="https://research.gatech.edu/sites/default/files/styles/people_page/public/photos/mark_riedl_002.jpg?h=04d92ac6&itok=4v6bvoo1" alt="Mark Riedl" style="vertical-align:top;width:120px;" />
+    <img src="images/mark_riedl.png" alt="Mark Riedl" style="vertical-align:top;width:120px;" />
     <figcaption style="text-align:center;">
         Mark Riedl
     </figcaption>
@@ -75,11 +75,11 @@ The organizing committee for the Human + AI Conference is [Chenhao Tan](https://
 
 09:00 - 09:05 Welcome  
 09:05 - 09:55 Marti Hearst  
-09:55 - 10:45 Mark Riedl  
+09:55 - 10:45 Mark Riedl - *Toward Human Centered Explainable AI*  
 10:45 - 10:35 Jeffery Bigham  
 11:35 - 01:00 Lunch / Poster session  
 01:00 - 01:50 Sanjog Misra  
 01:50 - 03:10 Zachary Lipton  
 03:10 - 03:30 Break  
-03:30 - 04:20 Jenn Logg  
+03:30 - 04:20 Jenn Logg - *A Simple Explanation Reconciles “Algorithm Aversion” vs. “Algorithm Appreciation”: Hypotheticals vs. Real Judgments*  
 04:20 - 05:15 Panel discussion  
