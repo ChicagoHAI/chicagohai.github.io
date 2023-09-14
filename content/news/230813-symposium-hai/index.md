@@ -7,7 +7,7 @@ We are holding a [symposium on Human+AI](news/230813-symposium-hai) on Sep 29!\
 +++
 
 {{% card %}}
-**September 29, 2023, 9:00-5:30 PM**   
+**September 29, 2023, 9:00 AM - 5:30 PM**   
 **John Crerar Library, Room 390**
 {{% /card %}}
 
