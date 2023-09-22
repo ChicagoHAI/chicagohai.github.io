@@ -125,15 +125,6 @@ The organizing committee for the Human + AI Conference is [Chenhao Tan](https://
 <time>03:30 - 04:20</time>
 <article>
     <details>
-        <summary><strong>Mark Riedl</strong></summary>
-        <p>Mark Riedl is a Professor in the Georgia Tech School of Interactive Computing and Associate Director of the Georgia Tech Machine Learning Center. Dr. Riedl’s research focuses on human-centered artificial intelligence—the development of artificial intelligence and machine learning technologies that understand and interact with human users in more natural ways. Dr. Riedl’s recent work has focused on story understanding and generation, computational creativity, explainable AI, and teaching virtual agents to behave safely.</p>
-    </details>
-    <em>Toward Human Centered Explainable AI</em>
-</article>
-
-<time>10:45 - 11:35</time>
-<article>
-    <details>
         <summary><strong>Jenn Logg</strong></summary>
         <p>Jennifer M. Logg, Ph.D., is an Assistant Professor of Management at Georgetown University's McDonough School of Business. Prior to joining Georgetown, she was a Post-Doctoral Fellow at Harvard University. Dr. Logg received her Ph.D. from the University of California, Berkeley’s Haas School of Business.</p>
         <p>Her research examines why people fail to view themselves and their work realistically. It focuses on how individuals can assess themselves and the world more accurately by using advice and feedback produced by algorithms (scripts for mathematical calculations). </p>
