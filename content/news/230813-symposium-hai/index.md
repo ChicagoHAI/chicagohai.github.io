@@ -17,7 +17,7 @@ AI has achieved impressive success in a wide variety of domains, ranging from me
 
 ## Invited speakers
 
-See [tentative agenda](#preliminary-schedule) below.
+See [agenda](#schedule) below.
 
 
 <figure class="photo" style="display:inline-block;margin:20px;">
@@ -73,9 +73,12 @@ Poster presenters will have the opportunity to display their posters at the Symp
 
 The organizing committee for the Human + AI Conference is [Chenhao Tan](https://cs.uchicago.edu/people/chenhao-tan/), [Sendhil Mullainathan](https://www.chicagobooth.edu/faculty/directory/m/sendhil-mullainathan), and [James Evans](https://sociology.uchicago.edu/directory/james-evans). This event is made possible by generous support of the [Stevanovich Center for Financial Mathematics](https://stevanovichcenter.uchicago.edu/). [Mourad Heddaya](https://mheddaya.com) leads the program committee and [Yixuan Wang](https://am.yixuan-wang.site/) is the web master.
 
-## Preliminary schedule
+## Schedule
 
 {{< grid >}}
+<time>08:30 - 09:00</time>
+<article>Breakfast</article>
+
 <time>09:00 - 09:05</time>
 <article>Welcome</article>
 
