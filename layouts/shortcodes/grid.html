@@ -1,0 +1,3 @@
+<div style="display: grid; {{ with .Get "rows" }}grid-template-rows: {{.}};{{ end }}{{ with .Get "cols" }}grid-template-columns: {{.}};{{else}}grid-template-columns: auto 1fr;{{ end }}{{ with .Get "gap" }}gap: {{.}};{{else}}gap: 0.5rem;{{end}}{{ with .Get "alignItems" }}align-items: {{.}};{{end}}{{ with .Get "style"}}{{.}}{{ end }}">
+	{{ .Inner }}
+</div>

@@ -41,4 +41,4 @@ footer = { text = "A warm cup of CHAI" }
   weight = 4
 
 [markup.goldmark.renderer]
-  unsafe = true  # allow raw HTML in markdown files
+unsafe = true  # allow raw HTML in markdown files

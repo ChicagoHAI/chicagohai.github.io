@@ -6,10 +6,12 @@ We are holding a [symposium on Human+AI](news/230813-symposium-hai) on Sep 29!\
 """
 +++
 
+<p>
 {{% card %}}
 **September 29, 2023, 9:00 AM - 5:30 PM**   
 **John Crerar Library, Room 390**
 {{% /card %}}
+</p>
 
 AI has achieved impressive success in a wide variety of domains, ranging from medical diagnosis to generative AI. This success provides rich opportunities for AI to address important societal challenges, but there are also growing concerns about the bias and harm that AI systems may cause. This conference brings together diverse perspectives to think about the best way for AI to fit into society and how to develop the best AI for humans. 
 
@@ -73,13 +75,77 @@ The organizing committee for the Human + AI Conference is [Chenhao Tan](https://
 
 ## Preliminary schedule
 
-09:00 - 09:05 Welcome  
-09:05 - 09:55 Marti Hearst  
-09:55 - 10:45 Mark Riedl - *Toward Human Centered Explainable AI*  
-10:45 - 10:35 Jeffery Bigham  
-11:35 - 01:00 Lunch / Poster session  
-01:00 - 01:50 Sanjog Misra  
-01:50 - 03:10 Zachary Lipton  
-03:10 - 03:30 Break  
-03:30 - 04:20 Jenn Logg - *A Simple Explanation Reconciles “Algorithm Aversion” vs. “Algorithm Appreciation”: Hypotheticals vs. Real Judgments*  
-04:20 - 05:15 Panel discussion  
+{{< grid >}}
+<time>09:00 - 09:05</time>
+<article>Welcome</article>
+
+<time>09:05 - 09:55</time>
+<article>
+    <div><strong>Marti Hearst</strong></div>
+    <div><em>Language as User Interface</em></div>
+</article>
+
+<time>09:55 - 10:45</time>
+<article>
+    <details>
+        <summary><strong>Mark Riedl</strong></summary>
+        <p>Mark Riedl is a Professor in the Georgia Tech School of Interactive Computing and Associate Director of the Georgia Tech Machine Learning Center. Dr. Riedl’s research focuses on human-centered artificial intelligence—the development of artificial intelligence and machine learning technologies that understand and interact with human users in more natural ways. Dr. Riedl’s recent work has focused on story understanding and generation, computational creativity, explainable AI, and teaching virtual agents to behave safely.</p>
+    </details>
+    <em>Toward Human Centered Explainable AI</em>
+</article>
+
+<time>10:45 - 11:35</time>
+<article>
+    <details>
+        <summary><strong>Jeffery Bigham</strong></summary>
+        <p>My research considers the intersection between people and machine learning broadly: I build novel human-AI systems, study how people use machine learning systems, and design possible AI futures. Much of my work focuses on accessibility because I see the field as a window into the future, given that people with disabilities are often the earliest adopters of AI. I am an Associate Professor in the Human-Computer Interaction and Language Technologies Institutes in the School of Computer Science at Carnegie Mellon University. I received my B.S.E degree in Computer Science from Princeton University in 2003, and received my Ph.D. in Computer Science and Engineering from the University of Washington in 2009. I have received the Alfred P. Sloan Foundation Fellowship (2014), the MIT Technology Review Top 35 Innovators Under 35 Award (2009), and the NSF CAREER Award (2012).</p>
+    </details>
+    <details>
+        <summary><em>How HCI Might Engage with the Easy Access to Statistical Likelihoods of Things</em></summary>
+        <p>Unintuitive statistical likelihoods of language and vision are now readily available via API, and people are connecting them to every possible way of interacting with machines. Despite this, we know both very little about and also have lots of historic precedent relevant to what interactions are likely to work, what is important for enabling them to work well, and where we should put our efforts if we want to enable better human interactions with machines. HCI thus has a vital role to play in helping us all to understand and scaffold human interaction where our intuitions fail. In this talk, I will bucket the opportunities we have as HCI researchers, using examples from my own (and others’) work in Human-AI Interaction, into themes of Benefit, Understand, Protect and Thrive.</p>
+    </details>
+</article>
+
+<time>11:35 - 01:00</time>
+<article>Lunch / Poster session</article>
+
+<time>01:00 - 01:50</time>
+<article>
+    <strong>Sanjog Misra</strong>
+</article>
+
+<time>01:50 - 03:10</time>
+<article>
+    <strong>Zachary Lipton</strong>
+</article>
+
+<time>03:10 - 03:30</time>
+<article>Break</article>
+
+<time>03:30 - 04:20</time>
+<article>
+    <details>
+        <summary><strong>Mark Riedl</strong></summary>
+        <p>Mark Riedl is a Professor in the Georgia Tech School of Interactive Computing and Associate Director of the Georgia Tech Machine Learning Center. Dr. Riedl’s research focuses on human-centered artificial intelligence—the development of artificial intelligence and machine learning technologies that understand and interact with human users in more natural ways. Dr. Riedl’s recent work has focused on story understanding and generation, computational creativity, explainable AI, and teaching virtual agents to behave safely.</p>
+    </details>
+    <em>Toward Human Centered Explainable AI</em>
+</article>
+
+<time>10:45 - 11:35</time>
+<article>
+    <details>
+        <summary><strong>Jenn Logg</strong></summary>
+        <p>Jennifer M. Logg, Ph.D., is an Assistant Professor of Management at Georgetown University's McDonough School of Business. Prior to joining Georgetown, she was a Post-Doctoral Fellow at Harvard University. Dr. Logg received her Ph.D. from the University of California, Berkeley’s Haas School of Business.</p>
+        <p>Her research examines why people fail to view themselves and their work realistically. It focuses on how individuals can assess themselves and the world more accurately by using advice and feedback produced by algorithms (scripts for mathematical calculations). </p>
+        <p>She calls her primary line of research Theory of Machine. It uses a psychological perspective to examine how people respond to the increasing prevalence of information produced by algorithms. Broadly, this work examines how people expect algorithmic and human judgment to differ. Read more in her book chapter, The Psychology of Big Data: Developing a “Theory of Machine” to Examine Perceptions of Algorithms.</p>
+        <p>She has been invited to speak on the topic of algorithms with decision-makers in the U.S. Senate, Air Force, and Navy. During her Ph.D., she was a collaborator on the Good Judgment Project, funded by IARPA, Intelligence of Advanced Research Projects Activity, the US intelligence community’s equivalent of DARPA. Currently, she is a Faculty Fellow at Georgetown University's AI, Analytics, and the Future of Work Initiative. She is also also a member of the "Theory of AI Practice" working group, funded by the Rockefeller Foundation through Stanford University's Center for Advanced Study in the Behavioral Sciences.</p>
+    </details>
+    <details>
+        <summary><em>A Simple Explanation Reconciles “Algorithm Aversion” vs. “Algorithm Appreciation”: Hypotheticals vs. Real Judgments</em></summary>
+        <p>We propose a simple explanation to reconcile research documenting algorithm aversion with research documenting algorithm appreciation: elicitation methods.  We compare self-reports and actual judgments.  When making judgments, people consistently utilize algorithmic advice more than human advice.  In contrast, hypotheticals produce unstable preferences; people sometimes report indifference and sometimes report preferring human judgment.  Moreover, people fail to correctly anticipate behavior, utilizing algorithmic advice more than they anticipate.  A framing change between hypotheticals additionally moderates algorithm aversion.  Stated preferences about algorithms are less stable than actual judgments, suggesting that algorithm aversion may be less stable than previous research leads us to believe. </p>
+    </details>
+</article>
+
+<time>04:20 - 05:15</time>
+<article>Panel discussion</article>
+{{< /grid >}}
