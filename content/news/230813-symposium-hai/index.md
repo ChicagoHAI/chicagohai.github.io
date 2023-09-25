@@ -114,7 +114,11 @@ The organizing committee for the Human + AI Conference is [Chenhao Tan](https://
 
 <time>01:00 - 01:50</time>
 <article>
-    <strong>Sanjog Misra</strong>
+    <div><strong>Sanjog Misra</strong></div>
+    <details>
+        <summary><em>Structural Deep Learning</em></summary>
+        <p>Humans have an amazing ability to describe the structure of the world in ways that allows for constraints, realisms and boundaries to be respected. This structure facilitates the notion of counterfactuals which is a fundamental element of any framework that aims at making decisions. In this talk, I will discuss the need for thinking of ML and in particular deep learning as embeddable objects in structural models of human (and group or firm) behavior. I will provide some relevant contexts, examples and applications of these ideas.</p>
+    </details>
 </article>
 
 <time>01:50 - 03:10</time>
