@@ -123,7 +123,11 @@ The organizing committee for the Human + AI Conference is [Chenhao Tan](https://
 
 <time>01:50 - 03:10</time>
 <article>
-    <strong>Zachary Lipton</strong>
+    <div><strong>Zachary Lipton</strong></div>
+    <details>
+      <summary>Responsible AI's Causal Turn</summary>
+      <p>With widespread excitement about the capability of machine learning systems, this technology has been instrumented to influence an ever-greater sphere of societal systems, often in contexts where what is expected of the systems goes far beyond the narrow tasks on which their performance was certified. Areas where our requirements of systems exceed their capabilities include (i) robustness and adaptivity to changes in the environment, (ii) compliance with notions of justice and non-discrimination, and (iii) providing actionable insights to decision-makers and decision subjects. In all cases, research has been stymied by confusion over how to conceptualize the critical problems in technical terms. And in each area, causality has emerged as a language for expressing our concerns, offering a philosophically coherent formulation of our problems but exposing new obstacles, such as an increasing reliance on stylized models and a sensitivity to assumptions that are unverifiable and (likely) unmet. This talk will introduce a few recent works, providing vignettes of reliable ML’s causal turn in the areas of distribution shift, fairness, and transparency research.</p>
+    </details>
 </article>
 
 <time>03:10 - 03:30</time>
