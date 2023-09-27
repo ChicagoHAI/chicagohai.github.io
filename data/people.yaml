@@ -24,9 +24,6 @@ people:
     - id: mourad_heddaya
       name: Mourad Heddaya
       homepage: https://people.cs.uchicago.edu/~mourad/
-    - id: chenghao_yang
-      name: Chenghao Yang
-      homepage: https://yangalan123.github.io/
   ms_and_undergrad:
     - id: grace_wang
       name: Grace Wang
