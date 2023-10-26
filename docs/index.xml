@@ -4,15 +4,14 @@
     <title>CHAI on Chicago Human&#43;AI Lab (CHAI)</title>
     <link>https://chicagohai.github.io/</link>
     <description>Recent content in CHAI on Chicago Human&#43;AI Lab (CHAI)</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en</language><atom:link href="https://chicagohai.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <generator>Hugo -- gohugo.io</generator><atom:link href="https://chicagohai.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>About</title>
       <link>https://chicagohai.github.io/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://chicagohai.github.io/about/</guid>
-      <description>About Me This is a Hugo based resume template. You can find the full source code on GitHub.
+      <description>About Me  This is a Hugo based resume template. You can find the full source code on GitHub.
 Research Interest Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam finibus ipsum ac erat aliquam dapibus. Vestibulum vehicula placerat ex, a consectetur odio pharetra quis1. Mauris id urna ante.
 Fusce pharetra diam ac nisi aliquet, velegestas ex iaculis. Pellentesque laoreet cursus tellus sed pellentesque. Praesent a rhoncus elit2. Nunc ipsum nisl, consequat sit amet pretium quis, gravida id ipsum.</description>
     </item>
@@ -24,7 +23,7 @@ Fusce pharetra diam ac nisi aliquet, velegestas ex iaculis. Pellentesque laoreet
       
       <guid>https://chicagohai.github.io/publication/</guid>
       <description>Preprint
-Emre Kıcıman, Robert Ness, Amit Sharma, and Chenhao Tan. Causal Reasoning and Large Language Models: Opening a New Frontier for Causality Karen Zhou and Chenhao Tan. Characterizing Political Bias in Automatic Summaries: A Case Study of Trump and Biden Nan-Jiang Jiang, Chenhao Tan, and Marie-Catherine de Marneffe. Understanding and Predicting Human Label Variation in Natural Language Inference through Explanation Himabindu Lakkaraju, Dylan Slack, Yuxin Chen, Chenhao Tan, and Sameer Singh.</description>
+ Emre Kıcıman, Robert Ness, Amit Sharma, and Chenhao Tan. Causal Reasoning and Large Language Models: Opening a New Frontier for Causality Karen Zhou and Chenhao Tan. Characterizing Political Bias in Automatic Summaries: A Case Study of Trump and Biden Nan-Jiang Jiang, Chenhao Tan, and Marie-Catherine de Marneffe. Understanding and Predicting Human Label Variation in Natural Language Inference through Explanation Himabindu Lakkaraju, Dylan Slack, Yuxin Chen, Chenhao Tan, and Sameer Singh.</description>
     </item>
     
   </channel>

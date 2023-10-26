@@ -73,7 +73,7 @@ Check out our [Twitter](https://twitter.com/ChicagoHAI) account and you might al
     </figcaption>
 </figure>
 <figure class="photo"  style="display:inline-block;margin:20px;">
-    <img src="chacha_1.jpg" alt="Chacha_Chen" style="vertical-align:top;width:120px;" />
+    <img src="chacha.JPG" alt="Chacha_Chen" style="vertical-align:top;width:120px;" />
     <figcaption style="text-align:center;">
         <a href="https://chacha-chen.github.io">Chacha Chen</a>
     </figcaption>
