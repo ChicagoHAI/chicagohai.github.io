@@ -4,4 +4,4 @@ date = 2022-07-22
 contentAsDesc = true
 +++
 
-In Fall 2002, we will also have openings for postdocs through the [DSI fellowship](http://datascience.uchicago.edu/engage/fellowships/)!
+In Fall 2022, we will also have openings for postdocs through the [DSI fellowship](http://datascience.uchicago.edu/engage/fellowships/)!
