@@ -6,12 +6,11 @@ description = "CHAI's publications."
 ## Preprint
 
 * [Emre Kıcıman][emre_kiciman], [Robert Ness][robert_ness], [Amit Sharma][amit_sharma], and _Chenhao Tan_. [Causal Reasoning and Large Language Models: Opening a New Frontier for Causality](https://arxiv.org/abs/2305.00050).
-* [Karen Zhou][karen_zhou] and _Chenhao Tan_. [Characterizing Political Bias in Automatic Summaries: A Case Study of Trump and Biden](https://arxiv.org/abs/2305.02321).
 * [Nan-Jiang Jiang][nanjiang_jiang], _Chenhao Tan_, and [Marie-Catherine de Marneffe][marie_marneffe]. [Understanding and Predicting Human Label Variation in Natural Language Inference through Explanation](https://arxiv.org/abs/2304.12443).
 * [Himabindu Lakkaraju][hima_lakkaraju], [Dylan Slack][dylan_slack], [Yuxin Chen][yuxin_chen], _Chenhao Tan_, and [Sameer Singh][sameer_singh]. [Rethinking Explainability as a Dialogue: A Practitioner's Perspective](https://arxiv.org/abs/2202.01875).
 
 ## 2023
-
+* [Karen Zhou][karen_zhou] and _Chenhao Tan_. [Entity-Based Evaluation of Political Bias in Automatic Summarization](https://arxiv.org/abs/2305.02321). Findings of EMNLP 2023.
 * [Vivian Lai][vivian_lai], [Yiming Zhang][yiming_zhang], [Chacha Chen][chacha_chen], [Q. Vera Liao][vera_liao], and _Chenhao Tan_. [Selective Explanations: Leveraging Human Input to Align Explainable AI](https://arxiv.org/abs/2301.09656). CSCW 2023.
 * [Chacha Chen][chacha_chen], [Shi Feng][shi_feng], [Amit Sharma][amit_sharma], and _Chenhao Tan_. [Machine Explanations and Human Understanding](https://arxiv.org/abs/2202.04092). FAccT 2023. [[survey](https://github.com/Chacha-Chen/Explanations-Human-Studies)]
 * [Vivian Lai][vivian_lai], [Chacha Chen][chacha_chen], [Alison Smith-Renner][alison_smith_renner], [Q. Vera Liao][vera_liao], and _Chenhao Tan_. [Towards a Science of Human-AI Decision Making: A Survey of Empirical Studies](https://arxiv.org/abs/2112.11471). FAccT 2023. [[survey](https://haidecisionmaking.github.io)]
