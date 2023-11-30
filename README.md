@@ -45,6 +45,12 @@ go install --tags extended
 ```
 If you encounter any problems, please refer to [trouble shooting](#Trouble-Shooting).
 
+Note: on Mac, need to add to `~/.zshrc`:
+```
+export GOPATH=$HOME/go
+export PATH=$GOPATH/bin:$PATH
+```
+
 ## Trouble Shooting
 ### 
 `# github.com/bep/golibsass/internal/libsass
