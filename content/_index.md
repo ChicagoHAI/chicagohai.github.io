@@ -45,6 +45,8 @@ Check out our [Twitter](https://twitter.com/ChicagoHAI) account and you might al
 
 ### Master, Undergrads, and High School Students
 
+* Miles Wang
+* Aditya Krishna 
 * Zander Meitus (Master 2023)
 * [Harry Tian](https://harry-tian.github.io/) (Master 2023 -> PhD at Purdue University)
 * [Yiming Zhang](https://y0mingzhang.github.io) (Master 2023 -> PhD at CMU)
