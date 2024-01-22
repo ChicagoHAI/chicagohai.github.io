@@ -161,6 +161,10 @@ header {
     }
 }
 
+.shortcode-grid > p {
+    margin-bottom: 0 !important;
+}
+
 #footer {
     a {
         @extend %link-dark;
