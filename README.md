@@ -9,13 +9,13 @@ Repository for [Chicago Human+AI homepage](https://chicagohai.github.io/). The h
 First, clone the repo.
 
 ```bash
-git clone --recurse-submodules https://github.com/ChicagoHAI/chicagohai.github.io.git
+git clone https://github.com/ChicagoHAI/chicagohai.github.io.git
 ```
 
 > [!TIP]
-> If you don't need to edit the homepage **theme**, but just change people information or post news, you don't need to clone with `--recurse-submodules`.
+> If you need to edit the homepage **theme**, not just people information or post news, you need to clone with `--recurse-submodules`.
 
-Currently we are using the `dev` branch as the main branch.
+Currently we are using the `main` branch as the main branch. The old `main` branch is now `legacy` branch.
 
 > [!WARNING]
 > **Do not** push and pull to `github-pages` branch. It's handled by GitHub Actions automatically.
@@ -23,7 +23,7 @@ Currently we are using the `dev` branch as the main branch.
 
 ### Edit
 
-You don't need [Hugo](https://gohugo.io/) installed on your local machine to edit the content. Just edit the markdown files in `content/` and `data/` folders, check [content](#Content) for more details on this.
+You don't need [Hugo](https://gohugo.io/) installed on your local machine to edit the content. Just edit the markdown files in `content/` and `data/` folders, check [content](#Contents) for more details on this.
 
 If you want to preview the website locally, you need to install Hugo. See [Environments](#Environments) for more details.
 
@@ -35,9 +35,9 @@ You can check the progress on the [Workflows log page](https://github.com/Chicag
 
 ## Environments
 
-An earlier version of installing instructions can be found in [README.legacy.md](README.legacy.md).
+An earlier version of installing instructions can be found in [README.legacy.md](README.legacy.md). It's now deprecated but kept for reference.
 
-### Install Hugo
+### Install Hugo (Optional)
 
 You don't need to install [Golang toolchain](https://golang.org/) to use Hugo site generator. Check their [installation guide](https://gohugo.io/installation/) for more details.
 
@@ -52,7 +52,7 @@ You don't need to install [Golang toolchain](https://golang.org/) to use Hugo si
 > scoop install hugo
 > ```
 
-### Run server
+### Run server (Optional)
 
 Run the following command in the base directory of this repo.
 
@@ -62,10 +62,10 @@ hugo server
 
 Then you can preview the website on `localhost:1313`. The server will automatically reload when you change the content.
 
-### Build
+### ~~Build~~
 
 > [!IMPORTANT]
-> You **don't need to and shouldn't** build the website manually. GitHub Actions will build it automatically.
+> You **don't need to and shouldn't** build the website manually. GitHub Actions will build it automatically. This means you shouldn't commit the `public/` folder.
 
 ## Contents
 
@@ -79,7 +79,7 @@ The people data is stored in [`data/people.yaml`](https://github.com/ChicagoHAI/
   homepage: https://chicagohai.github.io/ # Optional. Omit the key-value pair if you don't have one.
 ```
 
-If you are using VSCode, this file should have an auto type check.
+If you are using VS Code, this file should have an auto type check.
 
 ### Add your avatar
 
