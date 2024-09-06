@@ -4,7 +4,10 @@ people:
     - id: chenhao_tan
       name: Chenhao Tan
       homepage: https://chenhaot.com
-  postdoc: []
+  postdoc:
+    - id: julia_mendelsohn
+      name: Julia Mendelsohn
+      homepage: https://juliamendelsohn.github.io/
   phd:
     - id: joe_hsu
       name: Chao-Chun (Joe) Hsu
