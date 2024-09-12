@@ -29,6 +29,9 @@ people:
       homepage: https://mheddaya.com/
     - id: haokun_liu
       name: Haokun Liu
+    - id: dang_nguyen
+      name: Dang Nguyen
+      homepage: https://dangng2004.github.io/
   ms_and_undergrad:
     - id: grace_wang
       name: Grace Wang
@@ -36,8 +39,6 @@ people:
       name: Jiamin Yang
     - id: lily_wang
       name: Shuyuan (Lily) Wang
-    - id: dang_nguyen
-      name: Dang Nguyen
     - id: tom_wang
       name: Yixuan (Tom) Wang
       homepage: https://am.yixuan-wang.site/
