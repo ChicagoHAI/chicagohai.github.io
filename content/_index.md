@@ -37,6 +37,8 @@ Check out our [Twitter](https://twitter.com/ChicagoHAI) account and you might al
 
 ### PhDs & Postdocs
 
+* [Chao-Chun Hsu](https://chaochunhsu.github.io/) (PhD 2024 -> Amazon)
+* [Han Liu](https://hanliuai.github.io/) (PhD 2024)
 * [Shi Feng](https://ihsgnef.github.io/) (Postdoc 2023 -> Research Associate at NYU -> Assistant Professor at George Washington University)
 * [Samuel Carton](https://shcarton.github.io/) (Postdoc 2022 -> Assistant Professor at the University of New Hampshire)
 * [Vivian Lai](https://vivlai.github.io/) (PhD 2022 -> Research scientist at VISA research) 
@@ -45,6 +47,8 @@ Check out our [Twitter](https://twitter.com/ChicagoHAI) account and you might al
 
 ### Master, Undergrads, and High School Students
 
+* Jiamin Yang (Master 2024 -> PhD at TTIC)
+* Grace Wang
 * Miles Wang
 * Aditya Krishna 
 * Zander Meitus (Master 2023)
