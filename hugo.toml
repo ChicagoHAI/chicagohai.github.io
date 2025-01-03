@@ -37,7 +37,7 @@ footer = { text = "A warm cup of CHAI" }
 
 [[menu.main]]
   name = "Pub"
-  url = "/publication"
+  url = "https://chenhaot.com/papers.html"
   weight = 4
 
 [markup.goldmark.renderer]

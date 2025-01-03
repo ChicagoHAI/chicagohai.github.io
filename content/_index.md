@@ -7,18 +7,20 @@ Welcome!
 
 {{< figure class="avatar" src="/avatar.jpg" >}}
 
-Our goal is to build the best AI for humans by 1) developing best practices for effective human-AI collaboration through explanations and 2) building robust models that can discover data-driven insights.
-We currently work on the following areas:
+Our goal is to build the best AI for humans.
+We are most interested in the following applications (ordered randomly):
 
-* Understanding and improving human decision making,
-* explanations and interpretability,
-* AI-assisted democracy.
+* Governance and democratic processes,
+* Healthcare,
+* Scientific discoveries.
+
+Check this [page](https://chenhaot.com) for updated research directions!
 
 
 We are always looking for motivated postdocs, PhD students, and undergraduates who are interested in human-centered AI, NLP, and computational social science! Please read this [FAQ](https://chenhaot.com/faq.html) if you are interested. 
 
-Check out our [Twitter](https://twitter.com/ChicagoHAI) account and you might also find [UChicagoCI](https://twitter.com/UChicagoCI) and [Center for Applied Artificial Intelligence](https://www.chicagobooth.edu/research/center-for-applied-artificial-intelligence) interesting.
-<a href="https://twitter.com/ChicagoHAI?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-count="false">Follow @ChicagoHAI</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+Check out our [Bluesky](https://bsky.app/profile/chicagohai.bsky.social) account .
+
 
 
 ## News
