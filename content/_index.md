@@ -49,10 +49,14 @@ Check out our [Bluesky](https://bsky.app/profile/chicagohai.bsky.social) account
 
 ### Master, Undergrads, and High School Students
 
+* Tejes Srivastava (Master 2025)
+* [Yixuan (Tom) Wang](https://am.yixuan-wang.site/) (Master 2025 -> PhD at University of Waterloo)
+* Shuyuan (Lily) Wang
+* Shengyuan Wang (Undergrad 2025, Tsinghua University -> PhD at Tsinghua University)
 * Jiamin Yang (Master 2024 -> PhD at TTIC)
-* Grace Wang
+* Grace Wang (Undergraduate 2024)
 * Miles Wang
-* Aditya Krishna 
+* Aditya Krishna (Undergraduate 2024)
 * Zander Meitus (Master 2023)
 * [Harry Tian](https://harry-tian.github.io/) (Master 2023 -> PhD at Purdue University)
 * [Yiming Zhang](https://y0mingzhang.github.io) (Master 2023 -> PhD at CMU)

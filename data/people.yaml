@@ -31,17 +31,8 @@ people:
       name: Xiaoyan (Elena) Bai
       homepage: https://elena-baixy.github.io/
   ms_and_undergrad:
-    - id: lily_wang
-      name: Shuyuan (Lily) Wang
-    - id: tom_wang
-      name: Yixuan (Tom) Wang
-      homepage: https://am.yixuan-wang.site/
     - id: jessica_ji
       name: Yuxin (Jessica) Ji
-    - id: tejes_srivastava
-      name: Tejes Srivastava
-    - id: shengyuan_wang
-      name: Shengyuan Wang
     - id: hanyi_wu
       name: Yi Wu
       homepage: https://ethanyiwu.github.io/
