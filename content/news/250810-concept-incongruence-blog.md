@@ -2,7 +2,7 @@
 title = "Concept Incongruence is Key to AI Safety and Creativity"
 date = 2025-08-10
 description = """\
-Checkout the our blog about [concept incongruence](https://cichicago.substack.com/p/concept-incongruence-is-key-to-ai)! \
+Checkout our blog: [Concept Incongruence is Key to AI Safety and Creativity](https://cichicago.substack.com/p/concept-incongruence-is-key-to-ai) to learn what we found, why it matters, and what's next. \
 """
 +++
 
