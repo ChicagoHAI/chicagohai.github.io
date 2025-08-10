@@ -1,7 +1,6 @@
 +++
 title = "Concept Incongruence is Key to AI Safety and Creativity"
 date = 2025-08-10
-contentAsDesc = true
 description = """\
 Checkout the our blog about [concept incongruence](https://cichicago.substack.com/p/concept-incongruence-is-key-to-ai)! \
 """
