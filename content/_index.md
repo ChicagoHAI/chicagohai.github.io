@@ -39,6 +39,7 @@ Check out our [Bluesky](https://bsky.app/profile/chicagohai.bsky.social) account
 
 ### PhDs & Postdocs
 
+* [Julia Mendelsohn](https://juliamendelsohn.github.io/) (Postdoc 2025 -> Assistant Professor at University of Maryland)
 * [Chao-Chun Hsu](https://chaochunhsu.github.io/) (PhD 2024 -> Amazon)
 * [Han Liu](https://hanliuai.github.io/) (PhD 2024)
 * [Shi Feng](https://ihsgnef.github.io/) (Postdoc 2023 -> Research Associate at NYU -> Assistant Professor at George Washington University)

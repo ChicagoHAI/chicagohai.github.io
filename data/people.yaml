@@ -5,12 +5,12 @@ people:
       name: Chenhao Tan
       homepage: https://chenhaot.com
   postdoc:
-    - id: julia_mendelsohn
-      name: Julia Mendelsohn
-      homepage: https://juliamendelsohn.github.io/
     - id: cristina_garbacea
       name: Cristina Garbacea
       homepage: https://cristinagarbacea.com/
+    - id: xiao_liu
+      name: Xiao Liu
+      homepage: https://xxxiaol.github.io/
   phd:
     - id: rosa_zhou
       name: Yangqiaoyu (Rosa) Zhou
