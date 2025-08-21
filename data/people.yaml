@@ -12,30 +12,22 @@ people:
       name: Xiao Liu
       homepage: https://xxxiaol.github.io/
   phd:
-    - id: rosa_zhou
-      name: Yangqiaoyu (Rosa) Zhou
-      homepage: https://rosafish.github.io/
     - id: karen_zhou
       name: Karen Zhou
       homepage: https://karen-zhou.com/
-    - id: chacha_chen
-      name: Chacha Chen
-      homepage: https://chacha-chen.github.io/
     - id: mourad_heddaya
       name: Mourad Heddaya
       homepage: https://mheddaya.com/
     - id: haokun_liu
       name: Haokun Liu
       homepage: https://haokunliu.com/
-    - id: dang_nguyen
-      name: Dang Nguyen
-      homepage: https://dangng2004.github.io/
     - id: xiaoyan_bai
       name: Xiaoyan (Elena) Bai
       homepage: https://elena-baixy.github.io/
+    - id: dang_nguyen
+      name: Dang Nguyen
+      homepage: https://dangng2004.github.io/
   ms_and_undergrad:
-    - id: jessica_ji
-      name: Yuxin (Jessica) Ji
     - id: hanyi_wu
       name: Yi Wu
       homepage: https://ethanyiwu.github.io/
