@@ -40,6 +40,8 @@ Check out our [Bluesky](https://bsky.app/profile/chicagohai.bsky.social) account
 ### PhDs & Postdocs
 
 * [Julia Mendelsohn](https://juliamendelsohn.github.io/) (Postdoc 2025 -> Assistant Professor at University of Maryland)
+* [Chacha Chen](https://chacha-chen.github.io/) (PhD 2025 -> Apple)
+* [Yangqiaoyu (Rosa) Zhou](https://rosafish.github.io/) (PhD 2025 -> Microsoft)
 * [Chao-Chun Hsu](https://chaochunhsu.github.io/) (PhD 2024 -> Amazon)
 * [Han Liu](https://hanliuai.github.io/) (PhD 2024)
 * [Shi Feng](https://ihsgnef.github.io/) (Postdoc 2023 -> Research Associate at NYU -> Assistant Professor at George Washington University)
@@ -50,6 +52,7 @@ Check out our [Bluesky](https://bsky.app/profile/chicagohai.bsky.social) account
 
 ### Master, Undergrads, and High School Students
 
+* Jessica Ji (Master 2025 -> Vanguard)
 * Tejes Srivastava (Master 2025)
 * [Yixuan (Tom) Wang](https://am.yixuan-wang.site/) (Master 2025 -> PhD at University of Waterloo)
 * Shuyuan (Lily) Wang
