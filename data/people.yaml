@@ -27,6 +27,9 @@ people:
     - id: dang_nguyen
       name: Dang Nguyen
       homepage: https://dangng2004.github.io/
+    - id: qirun_dai
+      name: Qirun Dai
+      homepage: https://qrdai.github.io/
   ms_and_undergrad:
     - id: hanyi_wu
       name: Yi Wu
