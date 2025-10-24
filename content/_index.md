@@ -56,7 +56,7 @@ Follow us on [Bluesky](https://bsky.app/profile/chicagohai.bsky.social), [X](htt
 * Tejes Srivastava (Master 2025)
 * [Yixuan (Tom) Wang](https://am.yixuan-wang.site/) (Master 2025 -> PhD at University of Waterloo)
 * Shuyuan (Lily) Wang
-* Shengyuan Wang (Undergrad 2025, Tsinghua University -> PhD at Tsinghua University)
+* [Shengyuan Wang](https://shengyuan.info/) (Undergrad 2025, Tsinghua University -> PhD at Tsinghua University)
 * Jiamin Yang (Master 2024 -> PhD at TTIC)
 * Grace Wang (Undergraduate 2024)
 * Miles Wang
