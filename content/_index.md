@@ -19,7 +19,7 @@ Check this [page](https://chenhaot.com) for updated research directions!
 
 We are always looking for motivated postdocs, PhD students, and undergraduates who are interested in human-centered AI, NLP, and computational social science! Please read this [FAQ](https://chenhaot.com/faq.html) if you are interested. 
 
-Check out our [Bluesky](https://bsky.app/profile/chicagohai.bsky.social) account .
+Follow us on [Bluesky](https://bsky.app/profile/chicagohai.bsky.social), [X](https://x.com/ChicagoHAI), and [substack](https://substack.com/@cichicago).
 
 
 
