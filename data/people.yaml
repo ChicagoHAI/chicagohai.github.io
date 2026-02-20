@@ -31,20 +31,8 @@ people:
       name: Qirun Dai
       homepage: https://qrdai.github.io/
   ms_and_undergrad:
-    - id: hanyi_wu
-      name: Yi Wu
-      homepage: https://ethanyiwu.github.io/
     - id: julia_margie
       name: Julia Margie
-    - id: jiayu_fu
-      name: Jiayu Fu
-    - id: ike_peng
-      name: Bowen (Ike) Peng
-    - id: yuyang_jiang
-      name: Yuyang Jiang
-      homepage: https://yuyangj0.github.io/
     - id: mingxuan_li
       name: Mingxuan (Aldous) Li
       homepage: https://itea1001.github.io/
-    - id: justin_hwang
-      name: Justin Hwang

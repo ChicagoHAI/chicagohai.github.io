@@ -8,16 +8,11 @@ Welcome!
 {{< figure class="avatar" src="/avatar.jpg" >}}
 
 Our goal is to build the best AI for humans.
-We are most interested in the following applications (ordered randomly):
-
-* Governance and democratic processes,
-* Healthcare,
-* Scientific discoveries.
 
 Check this [page](https://chenhaot.com) for updated research directions!
 
 
-We are always looking for motivated postdocs, PhD students, and undergraduates who are interested in human-centered AI, NLP, and computational social science! Please read this [FAQ](https://chenhaot.com/faq.html) if you are interested. 
+We are always looking for motivated postdocs, PhD students, and undergraduates! Please read this [FAQ](https://chenhaot.com/faq) if you are interested. 
 
 Follow us on [Bluesky](https://bsky.app/profile/chicagohai.bsky.social), [X](https://x.com/ChicagoHAI), and [substack](https://substack.com/@cichicago).
 
@@ -27,13 +22,15 @@ Follow us on [Bluesky](https://bsky.app/profile/chicagohai.bsky.social), [X](htt
 
 {{< summaryNews >}}
 
+## Demo Links
+
+{{< include page="demos" >}}
+
+
 ## People
 
 {{< listPeople >}}
 
-## Demo Links
-
-{{< include page="demos" >}}
 
 ## Alumni
 
@@ -52,6 +49,11 @@ Follow us on [Bluesky](https://bsky.app/profile/chicagohai.bsky.social), [X](htt
 
 ### Master, Undergrads, and High School Students
 
+
+* [Yuyang Jiang](https://yuyangj0.github.io/) (Master 2025)
+* Jiayu Fu (Undergraduate 2027)
+* Justin Hwang (Undergraduate 2027)
+* Ike Peng (Undergraduate 2026)
 * Jessica Ji (Master 2025 -> Vanguard)
 * Tejes Srivastava (Master 2025)
 * [Yixuan (Tom) Wang](https://am.yixuan-wang.site/) (Master 2025 -> PhD at University of Waterloo)
