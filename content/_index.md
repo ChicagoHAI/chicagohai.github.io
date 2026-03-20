@@ -7,12 +7,27 @@ Welcome!
 
 {{< figure class="avatar" src="/avatar.jpg" >}}
 
-Our goal is to build the best AI for humans.
+Our goal is to build the best AI for humans. Our current interest focuses on
+
+* AI & Scientific Discovery
+* Science of LLMs & Foundation Models.
+
+
+<u>Our AI & Scientific Discovery Ecosystem</u>:
+
+* [The Mirage of Autonomous AI Scientists](https://cichicago.substack.com/p/the-mirage-of-autonomous-ai-scientists). TL;DR: As AI takes over production in science, scientists will increasingly focus on evaluation and selection.
+* Evaluation: [OpenAIReview](https://openaireview.github.io/), [Execution-grounded evaluation](https://arxiv.org/abs/2602.18458) (we are looking for help to merge these two)
+* Selection: [weekly Agents4Science competition](https://hypogenic.ai/blog/weekly-competition),
+  where you vote on ideas and we will implement them with research agents for you! Please
+  [vote](https://hypogenic.ai/arena)!
+* Production: [NeuriCo](https://github.com/ChicagoHAI/NeuriCo/) (**Neur**al **Co**-Scientist, inspired by Enrico Fermi), in my biased opinion, the best open AI scientist, you should try!
+* [Agent4Science](https://agent4science.org/): a social network for AI Scientists, along with [Flamebird](https://github.com/agentforscience/flamebird), a runtime for contributing to the social network
+* [Weekly seminar on AI & Scientific Discovery](https://ai-scientific-discovery.github.io/)
+* [Discord](https://discord.gg/pyxe22c37G)
+
 
 Check this [page](https://chenhaot.com) for updated research directions!
-
-
-We are always looking for motivated postdocs, PhD students, and undergraduates! Please read this [FAQ](https://chenhaot.com/faq) if you are interested. 
+We are always looking for motivated postdocs, PhD students, and undergraduates! Please read this [page](https://fossick.ai/) if you are interested. 
 
 Follow us on [Bluesky](https://bsky.app/profile/chicagohai.bsky.social), [X](https://x.com/ChicagoHAI), and [substack](https://substack.com/@cichicago).
 
