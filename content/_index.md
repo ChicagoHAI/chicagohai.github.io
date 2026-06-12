@@ -69,6 +69,7 @@ Follow us on [Bluesky](https://bsky.app/profile/chicagohai.bsky.social), [X](htt
 * Jiayu Fu (Undergraduate 2027)
 * Justin Hwang (Undergraduate 2027)
 * Ike Peng (Undergraduate 2026)
+* Qianqian He (Master 2026)
 * Jessica Ji (Master 2025 -> Vanguard)
 * Tejes Srivastava (Master 2025)
 * [Yixuan (Tom) Wang](https://am.yixuan-wang.site/) (Master 2025 -> PhD at University of Waterloo)
