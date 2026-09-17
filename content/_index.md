@@ -51,6 +51,7 @@ Follow us on [Bluesky](https://bsky.app/profile/chicagohai.bsky.social), [X](htt
 
 ### PhDs & Postdocs
 
+* [Cristina Garbacea](https://cristinagarbacea.com/) (Postdoc 2026 -> Tenure-Track Faculty at CISPA Helmholtz Center for Information Security)
 * [Julia Mendelsohn](https://juliamendelsohn.github.io/) (Postdoc 2025 -> Assistant Professor at University of Maryland)
 * [Chacha Chen](https://chacha-chen.github.io/) (PhD 2025 -> Apple)
 * [Yangqiaoyu (Rosa) Zhou](https://rosafish.github.io/) (PhD 2025 -> Microsoft)
