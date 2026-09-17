@@ -5,12 +5,12 @@ people:
       name: Chenhao Tan
       homepage: https://chenhaot.com
   postdoc:
-    - id: davi_costa
-      name: Davi Bastos Costa
-      homepage: https://bastoscostadavi.github.io/
     - id: xiao_liu
       name: Xiao Liu
       homepage: https://xxxiaol.github.io/
+    - id: davi_costa
+      name: Davi Bastos Costa
+      homepage: https://bastoscostadavi.github.io/
   phd:
     - id: karen_zhou
       name: Karen Zhou
