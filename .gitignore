@@ -7,3 +7,6 @@
 public
 # ./resources: hugo build cache
 resources
+
+# roster spreadsheets collected from lab members (not for publication)
+*.xlsx
