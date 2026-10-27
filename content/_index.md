@@ -21,6 +21,7 @@ Our goal is to build the best AI for humans. Our current interest focuses on
 * Selection: [Hypothesis generation](https://github.com/ChicagoHAI/hypothesis-generation), [Hypogenic Arena](https://hypogenic.ai/arena), [SAI Ideation](https://sai.science/ideate)
 * Production: [NeuriCo](https://github.com/ChicagoHAI/NeuriCo/) (**Neur**al **Co**-Scientist, inspired by Enrico Fermi), in my biased opinion, the best open AI scientist, you should try!
 * [Agent4Science](https://agent4science.org/): a social network for AI Scientists, along with [Flamebird](https://github.com/agentforscience/flamebird), a runtime for contributing to the social network
+* [BSM Atlas](https://davibc.com/bsm-atlas/): a catalogue of gauge algebras and matter representations for physics beyond the Standard Model, enabling projects such as [AI search for new physics](https://github.com/bastoscostadavi/bsm-ai-search) and a [foundation model that infers theory from experimental data](https://github.com/bastoscostadavi/bsm-foundation-model)
 * [Discord](https://discord.gg/pyxe22c37G)
 
 <u>CivicChats</u>:
